@@ -19,16 +19,20 @@ def get_data(url):
 
 
 # =========================
-# WEDSTRIJDEN
+# ALLEEN FEYENOORD WEDSTRIJDEN
 # =========================
 
+# Feyenoord team-ID bij football-data.org
+FEYENOORD_ID = 675
+
 matches_data = get_data(
-    f"{API}/competitions/DED/matches"
+    f"{API}/teams/{FEYENOORD_ID}/matches?competitions=DED&limit=20"
 )
 
 matches = []
 
 for match in matches_data.get("matches", []):
+
     score = match.get("score", {})
     full_time = score.get("fullTime", {})
 
@@ -45,7 +49,8 @@ for match in matches_data.get("matches", []):
         "home": match.get("homeTeam", {}).get("name"),
         "away": match.get("awayTeam", {}).get("name"),
         "score": result,
-        "status": match.get("status")
+        "status": match.get("status"),
+        "competition": match.get("competition", {}).get("name")
     })
 
 
@@ -60,8 +65,11 @@ standings_data = get_data(
 standings = []
 
 for table in standings_data.get("standings", []):
+
     if table.get("type") == "TOTAL":
+
         for team in table.get("table", []):
+
             standings.append({
                 "position": team.get("position"),
                 "team": team.get("team", {}).get("name"),
@@ -70,11 +78,12 @@ for table in standings_data.get("standings", []):
                 "draws": team.get("draw"),
                 "points": team.get("points")
             })
+
         break
 
 
 # =========================
-# DATA.JSON OPSLAAN
+# DATA.JSON
 # =========================
 
 data = {
@@ -84,9 +93,11 @@ data = {
     "updated": datetime.now(timezone.utc).isoformat()
 }
 
+
 with open("data.json", "w", encoding="utf-8") as file:
     json.dump(data, file, ensure_ascii=False, indent=2)
 
-print("Feyenoord-data succesvol bijgewerkt!")
-print("Wedstrijden:", len(matches))
-print("Stand:", len(standings), "teams")
+
+print("Feyenoord wedstrijden:", len(matches))
+print("Eredivisie teams:", len(standings))
+print("Data succesvol bijgewerkt!")
