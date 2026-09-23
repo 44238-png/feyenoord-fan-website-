@@ -1,9 +1,9 @@
 name: Update Feyenoord data
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "*/15 * * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,19 +16,20 @@ jobs:
       - name: Repository ophalen
         uses: actions/checkout@v4
 
-      - name: Python instellen
+      - name: Python installeren
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: Data bijwerken
+      - name: Feyenoord data ophalen
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
         run: python update-data.py
-env:
-    FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
-      - name: Wijzigingen opslaan
+
+      - name: Data opslaan
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git diff --cached --quiet || git commit -m "Automatische Feyenoord update"
+          git diff --cached --quiet || git commit -m "Automatische Feyenoord data update"
           git push
