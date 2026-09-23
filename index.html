@@ -1,0 +1,1684 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Feyenoord Fans 🔴⚪</title>
+
+<style>
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    background:#080808;
+    color:white;
+}
+
+/* NAVBAR */
+
+nav{
+    position:sticky;
+    top:0;
+    z-index:1000;
+
+    background:rgba(5,5,5,.96);
+    border-bottom:2px solid #e30613;
+}
+
+.nav{
+    max-width:1200px;
+    width:92%;
+    min-height:70px;
+    margin:auto;
+
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+
+.logo{
+    font-size:23px;
+    font-weight:900;
+}
+
+.logo span{
+    color:#e30613;
+}
+
+.links{
+    display:flex;
+    gap:25px;
+}
+
+.links a{
+    color:#ddd;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.links a:hover{
+    color:#e30613;
+}
+
+.menu{
+    display:none;
+
+    border:0;
+    background:#e30613;
+    color:white;
+
+    border-radius:8px;
+
+    padding:10px 14px;
+
+    font-size:20px;
+}
+
+/* HERO */
+
+.hero{
+    min-height:540px;
+
+    display:flex;
+    align-items:center;
+
+    background:
+    radial-gradient(
+        circle at 80% 30%,
+        rgba(227,6,19,.45),
+        transparent 40%
+    ),
+    linear-gradient(
+        120deg,
+        #030303,
+        #190306
+    );
+}
+
+.hero-content{
+    width:92%;
+    max-width:1200px;
+    margin:auto;
+}
+
+.kicker{
+    color:#ff3944;
+    font-weight:900;
+    letter-spacing:4px;
+    margin-bottom:20px;
+}
+
+.hero h1{
+    font-size:clamp(50px,8vw,95px);
+    line-height:.9;
+    max-width:900px;
+}
+
+.hero h1 span{
+    color:#e30613;
+}
+
+.hero p{
+    max-width:650px;
+    color:#aaa;
+
+    font-size:18px;
+    line-height:1.6;
+
+    margin-top:25px;
+}
+
+.buttons{
+    display:flex;
+    flex-wrap:wrap;
+    gap:12px;
+
+    margin-top:30px;
+}
+
+.button{
+    display:inline-block;
+
+    padding:15px 22px;
+
+    border-radius:9px;
+
+    text-decoration:none;
+
+    font-weight:900;
+}
+
+.red{
+    background:#e30613;
+    color:white;
+}
+
+.dark{
+    background:#222;
+    color:white;
+    border:1px solid #444;
+}
+
+/* SECTIONS */
+
+section{
+    padding:70px 0;
+}
+
+.container{
+    width:92%;
+    max-width:1200px;
+    margin:auto;
+}
+
+.title{
+    font-size:38px;
+    font-weight:900;
+}
+
+.subtitle{
+    color:#888;
+    margin-top:8px;
+    margin-bottom:30px;
+}
+
+/* NEWS */
+
+.news-grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:20px;
+}
+
+.card{
+    background:#151515;
+
+    border:1px solid #292929;
+
+    border-radius:15px;
+
+    overflow:hidden;
+
+    transition:.2s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+    border-color:#e30613;
+}
+
+.red-line{
+    height:7px;
+    background:#e30613;
+}
+
+.card-content{
+    padding:23px;
+}
+
+.tag{
+    display:inline-block;
+
+    background:#e30613;
+    color:white;
+
+    padding:6px 9px;
+
+    border-radius:5px;
+
+    font-size:10px;
+    font-weight:900;
+
+    margin-bottom:14px;
+}
+
+.card h3{
+    font-size:20px;
+    line-height:1.3;
+}
+
+.card p{
+    color:#999;
+
+    font-size:14px;
+    line-height:1.6;
+
+    margin-top:12px;
+}
+
+.date{
+    color:#666;
+
+    font-size:12px;
+
+    margin-top:16px;
+}
+
+.card button{
+    width:100%;
+
+    margin-top:18px;
+
+    padding:13px;
+
+    border:0;
+
+    border-radius:8px;
+
+    background:#e30613;
+    color:white;
+
+    font-weight:900;
+
+    cursor:pointer;
+}
+
+/* FR12 */
+
+.fr12{
+    background:
+    linear-gradient(
+        180deg,
+        #090909,
+        #160204
+    );
+}
+
+.fr12-grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:20px;
+}
+
+.fr12-card{
+    background:#171717;
+
+    border:1px solid #382020;
+
+    border-radius:15px;
+
+    overflow:hidden;
+}
+
+.fr12-card .red-line{
+    background:#e30613;
+}
+
+.fr12-content{
+    padding:23px;
+}
+
+.fr12-content h3{
+    font-size:19px;
+    line-height:1.35;
+}
+
+.fr12-content p{
+    color:#999;
+
+    line-height:1.6;
+
+    font-size:14px;
+
+    margin-top:12px;
+}
+
+/* WEDSTRIJDEN */
+
+.matches{
+    display:grid;
+    gap:12px;
+}
+
+.match{
+    display:grid;
+
+    grid-template-columns:180px 1fr 160px;
+
+    align-items:center;
+
+    gap:20px;
+
+    padding:20px;
+
+    background:#151515;
+
+    border:1px solid #292929;
+
+    border-radius:12px;
+}
+
+.match-date{
+    color:#999;
+    font-size:13px;
+}
+
+.teams{
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    gap:20px;
+
+    text-align:center;
+
+    font-weight:900;
+}
+
+.vs{
+    color:#e30613;
+}
+
+.result{
+    text-align:right;
+
+    color:#68e99c;
+
+    font-weight:900;
+}
+
+/* STAND */
+
+.table{
+    overflow:hidden;
+
+    border-radius:12px;
+
+    border:1px solid #292929;
+}
+
+.table-row{
+    display:grid;
+
+    grid-template-columns:60px 1fr 70px 70px 70px 80px;
+
+    padding:15px;
+
+    background:#151515;
+
+    border-bottom:1px solid #292929;
+
+    align-items:center;
+}
+
+.table-row:last-child{
+    border-bottom:0;
+}
+
+.table-row.header{
+    background:#222;
+
+    color:#aaa;
+
+    font-size:12px;
+
+    font-weight:bold;
+}
+
+.table-row.feyenoord{
+    background:#3a070b;
+
+    border-left:5px solid #e30613;
+
+    font-weight:900;
+}
+
+.center{
+    text-align:center;
+}
+
+/* POLL */
+
+.poll{
+    background:
+    linear-gradient(
+        135deg,
+        #270508,
+        #151515
+    );
+
+    border:1px solid #4a1b20;
+
+    border-radius:18px;
+
+    padding:30px;
+}
+
+.poll p{
+    color:#aaa;
+    margin-top:8px;
+}
+
+.poll-grid{
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:12px;
+
+    margin-top:25px;
+}
+
+.poll-grid button{
+    padding:17px;
+
+    background:#222;
+
+    border:1px solid #444;
+
+    border-radius:9px;
+
+    color:white;
+
+    font-weight:900;
+
+    cursor:pointer;
+}
+
+.poll-grid button:hover{
+    background:#e30613;
+}
+
+#voteResult{
+    color:#68e99c;
+
+    font-weight:900;
+
+    margin-top:20px;
+}
+
+/* MODAL */
+
+.modal{
+    display:none;
+
+    position:fixed;
+
+    inset:0;
+
+    z-index:5000;
+
+    background:rgba(0,0,0,.85);
+
+    align-items:center;
+
+    justify-content:center;
+
+    padding:20px;
+}
+
+.modal.show{
+    display:flex;
+}
+
+.modal-box{
+    position:relative;
+
+    width:min(750px,100%);
+
+    max-height:90vh;
+
+    overflow:auto;
+
+    background:#151515;
+
+    border-top:6px solid #e30613;
+
+    border-radius:15px;
+
+    padding:32px;
+}
+
+.close{
+    position:absolute;
+
+    right:15px;
+    top:15px;
+
+    width:40px;
+    height:40px;
+
+    border:0;
+
+    border-radius:50%;
+
+    background:#292929;
+
+    color:white;
+
+    font-size:25px;
+
+    cursor:pointer;
+}
+
+.close:hover{
+    background:#e30613;
+}
+
+.modal h2{
+    font-size:34px;
+
+    margin-right:50px;
+}
+
+.modal-date{
+    color:#777;
+
+    margin-top:10px;
+
+    padding-bottom:20px;
+
+    border-bottom:1px solid #333;
+}
+
+.modal-text{
+    color:#ddd;
+
+    line-height:1.8;
+
+    margin-top:25px;
+}
+
+/* FOOTER */
+
+footer{
+    border-top:1px solid #292929;
+
+    padding:35px 0;
+
+    color:#777;
+}
+
+.footer{
+    width:92%;
+    max-width:1200px;
+
+    margin:auto;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    gap:20px;
+}
+
+/* MOBILE */
+
+@media(max-width:850px){
+
+    .menu{
+        display:block;
+    }
+
+    .links{
+        display:none;
+
+        position:absolute;
+
+        top:70px;
+
+        left:0;
+        right:0;
+
+        background:#080808;
+
+        padding:20px;
+
+        flex-direction:column;
+    }
+
+    .links.open{
+        display:flex;
+    }
+
+    .news-grid,
+    .fr12-grid{
+        grid-template-columns:1fr;
+    }
+
+    .match{
+        grid-template-columns:1fr;
+
+        text-align:center;
+    }
+
+    .result{
+        text-align:center;
+    }
+
+    .table{
+        overflow-x:auto;
+    }
+
+    .table-row{
+        min-width:600px;
+    }
+
+    .poll-grid{
+        grid-template-columns:1fr;
+    }
+
+    .footer{
+        flex-direction:column;
+    }
+}
+</style>
+</head>
+
+
+<body>
+
+
+<!-- NAVBAR -->
+
+<nav>
+
+<div class="nav">
+
+<div class="logo">
+    <span>●</span> FEYENOORD FANS
+</div>
+
+<button
+    class="menu"
+    onclick="toggleMenu()"
+>
+    ☰
+</button>
+
+<div
+    class="links"
+    id="links"
+>
+
+<a href="#nieuws">
+    Nieuws
+</a>
+
+<a href="#fr12">
+    FR12
+</a>
+
+<a href="#wedstrijden">
+    Wedstrijden
+</a>
+
+<a href="#stand">
+    Stand
+</a>
+
+<a href="#poll">
+    Poll
+</a>
+
+</div>
+
+</div>
+
+</nav>
+
+
+<!-- HERO -->
+
+<section class="hero">
+
+<div class="hero-content">
+
+<div class="kicker">
+    🔴⚪ ROTTERDAM
+</div>
+
+<h1>
+    Alles over
+    <span>Feyenoord</span>
+</h1>
+
+<p>
+    Het laatste Feyenoord-nieuws,
+    FR12-updates, wedstrijden,
+    uitslagen en de Eredivisie-stand.
+</p>
+
+<div class="buttons">
+
+<a
+    href="#nieuws"
+    class="button red"
+>
+    📰 Nieuws bekijken
+</a>
+
+<a
+    href="#wedstrijden"
+    class="button dark"
+>
+    ⚽ Wedstrijden
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- NIEUWS -->
+
+<section id="nieuws">
+
+<div class="container">
+
+<h2 class="title">
+    📰 Feyenoord Nieuws
+</h2>
+
+<p class="subtitle">
+    De belangrijkste berichten.
+</p>
+
+
+<div class="news-grid">
+
+
+<article class="card">
+
+<div class="red-line"></div>
+
+<div class="card-content">
+
+<div class="tag">
+    FEYENOORD
+</div>
+
+<h3>
+    Feyenoord wint overtuigend
+    van FC Utrecht
+</h3>
+
+<p>
+    Bekijk de samenvatting en
+    belangrijkste momenten.
+</p>
+
+<div class="date">
+    Laatste wedstrijd
+</div>
+
+<button
+    onclick="openNews('utrecht')"
+>
+    📖 Lees meer
+</button>
+
+</div>
+
+</article>
+
+
+<article class="card">
+
+<div class="red-line"></div>
+
+<div class="card-content">
+
+<div class="tag">
+    CONTRACT
+</div>
+
+<h3>
+    Nieuws rond Gjivai Zechiël
+</h3>
+
+<p>
+    De nieuwste ontwikkelingen
+    rond de middenvelder.
+</p>
+
+<div class="date">
+    Feyenoord
+</div>
+
+<button
+    onclick="openNews('zechiel')"
+>
+    📖 Lees meer
+</button>
+
+</div>
+
+</article>
+
+
+<article class="card">
+
+<div class="red-line"></div>
+
+<div class="card-content">
+
+<div class="tag">
+    FEYENOORD
+</div>
+
+<h3>
+    Nieuws rond Reiss Nelson
+</h3>
+
+<p>
+    De nieuwste ontwikkelingen
+    rond de selectie.
+</p>
+
+<div class="date">
+    Feyenoord
+</div>
+
+<button
+    onclick="openNews('nelson')"
+>
+    📖 Lees meer
+</button>
+
+</div>
+
+</article>
+
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- FR12 -->
+
+<section
+    id="fr12"
+    class="fr12"
+>
+
+<div class="container">
+
+<h2 class="title">
+    🔥 FR12 Nieuws
+</h2>
+
+<p class="subtitle">
+    Nieuwe berichten worden automatisch
+    toegevoegd zodra onze gegevens worden
+    bijgewerkt.
+</p>
+
+
+<div
+    class="fr12-grid"
+    id="fr12Grid"
+>
+
+<div class="fr12-card">
+
+<div class="red-line"></div>
+
+<div class="fr12-content">
+
+<div class="tag">
+    FR12
+</div>
+
+<h3>
+    FR12-nieuws wordt geladen...
+</h3>
+
+<p>
+    Even wachten op de nieuwste berichten.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- WEDSTRIJDEN -->
+
+<section id="wedstrijden">
+
+<div class="container">
+
+<h2 class="title">
+    ⚽ Wedstrijdschema
+</h2>
+
+<p class="subtitle">
+    Programma en uitslagen.
+</p>
+
+
+<div
+    class="matches"
+    id="matches"
+>
+
+<div class="match">
+
+<div class="match-date">
+    Laden...
+</div>
+
+<div class="teams">
+    Feyenoord
+    <span class="vs">
+        VS
+    </span>
+    Tegenstander
+</div>
+
+<div class="result">
+    ...
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- STAND -->
+
+<section id="stand">
+
+<div class="container">
+
+<h2 class="title">
+    📊 Eredivisie Stand
+</h2>
+
+<p class="subtitle">
+    De actuele stand.
+</p>
+
+
+<div class="table">
+
+<div class="table-row header">
+
+<div>
+    #
+</div>
+
+<div>
+    Club
+</div>
+
+<div class="center">
+    WG
+</div>
+
+<div class="center">
+    W
+</div>
+
+<div class="center">
+    G
+</div>
+
+<div class="center">
+    P
+</div>
+
+</div>
+
+
+<div
+    id="standings"
+>
+
+<div class="table-row feyenoord">
+
+<div>
+    -
+</div>
+
+<div>
+    Stand wordt geladen...
+</div>
+
+<div class="center">
+    -
+</div>
+
+<div class="center">
+    -
+</div>
+
+<div class="center">
+    -
+</div>
+
+<div class="center">
+    -
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- POLL -->
+
+<section id="poll">
+
+<div class="container">
+
+<div class="poll">
+
+<h2>
+    🗳️ Wie is jouw favoriete speler?
+</h2>
+
+<p>
+    Kies jouw favoriet.
+</p>
+
+
+<div class="poll-grid">
+
+<button onclick="vote('Sem Steijn')">
+    ⚽ Sem Steijn
+</button>
+
+<button onclick="vote('Shaq van Persie')">
+    ⚽ Shaq van Persie
+</button>
+
+<button onclick="vote('Ferry Ferri')">
+    ⚽ Ferry Ferri
+</button>
+
+<button onclick="vote('Luciano Valente')">
+    ⚽ Luciano Valente
+</button>
+
+</div>
+
+
+<div id="voteResult"></div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- MODAL -->
+
+<div
+    class="modal"
+    id="modal"
+    onclick="outsideModal(event)"
+>
+
+<div class="modal-box">
+
+<button
+    class="close"
+    onclick="closeModal()"
+>
+    ×
+</button>
+
+<h2 id="modalTitle">
+</h2>
+
+<div
+    class="modal-date"
+    id="modalDate"
+>
+</div>
+
+<div
+    class="modal-text"
+    id="modalText"
+>
+</div>
+
+</div>
+
+</div>
+
+
+<!-- FOOTER -->
+
+<footer>
+
+<div class="footer">
+
+<div>
+<strong style="color:white">
+    🔴⚪ Feyenoord Fans
+</strong>
+
+<br>
+
+Een website voor Feyenoord-supporters.
+</div>
+
+<div>
+Automatische updates
+</div>
+
+</div>
+
+</footer>
+
+
+<script>
+
+/* MENU */
+
+function toggleMenu(){
+
+    document
+        .getElementById("links")
+        .classList.toggle("open");
+
+}
+
+
+/* NIEUWS */
+
+const news = {
+
+    utrecht:{
+        title:
+        "Feyenoord wint overtuigend van FC Utrecht",
+
+        date:
+        "Feyenoord",
+
+        text:
+        `
+        <p>
+        Feyenoord boekte een ruime overwinning
+        tegen FC Utrecht.
+        </p>
+
+        <p>
+        Bekijk de nieuwste ontwikkelingen,
+        doelpunten en belangrijkste momenten
+        op deze website.
+        </p>
+        `
+    },
+
+
+    zechiel:{
+        title:
+        "Nieuws rond Gjivai Zechiël",
+
+        date:
+        "Feyenoord",
+
+        text:
+        `
+        <p>
+        Gjivai Zechiël blijft een belangrijk
+        onderdeel van het Feyenoord-nieuws.
+        </p>
+
+        <p>
+        Hier verschijnen de nieuwste updates
+        zodra er nieuwe gegevens beschikbaar zijn.
+        </p>
+        `
+    },
+
+
+    nelson:{
+        title:
+        "Nieuws rond Reiss Nelson",
+
+        date:
+        "Feyenoord",
+
+        text:
+        `
+        <p>
+        Ook rond Reiss Nelson blijft er nieuws
+        verschijnen.
+        </p>
+
+        <p>
+        Nieuwe ontwikkelingen kunnen hier
+        automatisch worden toegevoegd.
+        </p>
+        `
+    }
+
+};
+
+
+/* NIEUWS OPENEN */
+
+function openNews(id){
+
+    const article =
+        news[id];
+
+    document
+        .getElementById("modalTitle")
+        .textContent =
+        article.title;
+
+    document
+        .getElementById("modalDate")
+        .textContent =
+        article.date;
+
+    document
+        .getElementById("modalText")
+        .innerHTML =
+        article.text;
+
+    document
+        .getElementById("modal")
+        .classList
+        .add("show");
+
+}
+
+
+/* MODAL SLUITEN */
+
+function closeModal(){
+
+    document
+        .getElementById("modal")
+        .classList
+        .remove("show");
+
+}
+
+
+function outsideModal(event){
+
+    if(
+        event.target.id === "modal"
+    ){
+        closeModal();
+    }
+
+}
+
+
+document.addEventListener(
+    "keydown",
+    function(event){
+
+        if(
+            event.key === "Escape"
+        ){
+            closeModal();
+        }
+
+    }
+);
+
+
+/* POLL */
+
+function vote(player){
+
+    const key =
+        "feyenoord_" + player;
+
+    let votes =
+        Number(
+            localStorage.getItem(key) || 0
+        );
+
+    votes++;
+
+    localStorage.setItem(
+        key,
+        votes
+    );
+
+    document
+        .getElementById("voteResult")
+        .textContent =
+        "✅ Je hebt gestemd op " +
+        player +
+        "!";
+
+}
+
+
+/* DATA LADEN */
+
+async function loadData(){
+
+    try{
+
+        const response =
+            await fetch(
+                "data.json?time=" +
+                Date.now()
+            );
+
+        if(!response.ok){
+            throw new Error(
+                "data.json niet gevonden"
+            );
+        }
+
+        const data =
+            await response.json();
+
+
+        /* WEDSTRIJDEN */
+
+        if(
+            Array.isArray(data.matches)
+        ){
+
+            const matches =
+                document
+                .getElementById("matches");
+
+            matches.innerHTML = "";
+
+
+            data.matches
+                .slice(0,20)
+                .forEach(match => {
+
+                    const div =
+                        document.createElement(
+                            "div"
+                        );
+
+                    div.className =
+                        "match";
+
+
+                    div.innerHTML = `
+
+                    <div class="match-date">
+                        ${safe(
+                            match.date || ""
+                        )}
+                    </div>
+
+                    <div class="teams">
+                        ${safe(
+                            match.home || "Feyenoord"
+                        )}
+
+                        <span class="vs">
+                            VS
+                        </span>
+
+                        ${safe(
+                            match.away || ""
+                        )}
+                    </div>
+
+                    <div class="result">
+
+                        ${
+                            match.score
+                            ?
+                            safe(match.score)
+                            :
+                            safe(
+                                match.time ||
+                                "Nog niet gespeeld"
+                            )
+                        }
+
+                    </div>
+
+                    `;
+
+
+                    matches.appendChild(
+                        div
+                    );
+
+                });
+
+        }
+
+
+        /* STAND */
+
+        if(
+            Array.isArray(data.standings)
+        ){
+
+            const standings =
+                document
+                .getElementById("standings");
+
+            standings.innerHTML = "";
+
+
+            data.standings
+                .forEach(team => {
+
+                    const row =
+                        document.createElement(
+                            "div"
+                        );
+
+
+                    const isFeyenoord =
+                        String(
+                            team.team || ""
+                        )
+                        .toLowerCase()
+                        .includes(
+                            "feyenoord"
+                        );
+
+
+                    row.className =
+                        "table-row" +
+                        (
+                            isFeyenoord
+                            ?
+                            " feyenoord"
+                            :
+                            ""
+                        );
+
+
+                    row.innerHTML = `
+
+                    <div>
+                        ${safe(
+                            team.position || "-"
+                        )}
+                    </div>
+
+                    <div>
+                        ${safe(
+                            team.team || "-"
+                        )}
+                    </div>
+
+                    <div class="center">
+                        ${safe(
+                            team.played || "-"
+                        )}
+                    </div>
+
+                    <div class="center">
+                        ${safe(
+                            team.wins || "-"
+                        )}
+                    </div>
+
+                    <div class="center">
+                        ${safe(
+                            team.draws || "-"
+                        )}
+                    </div>
+
+                    <div class="center">
+                        ${safe(
+                            team.points || "-"
+                        )}
+                    </div>
+
+                    `;
+
+
+                    standings.appendChild(
+                        row
+                    );
+
+                });
+
+        }
+
+
+        /* FR12 */
+
+        if(
+            Array.isArray(data.fr12)
+        ){
+
+            const grid =
+                document
+                .getElementById("fr12Grid");
+
+            grid.innerHTML = "";
+
+
+            data.fr12
+                .slice(0,9)
+                .forEach(article => {
+
+                    const card =
+                        document.createElement(
+                            "article"
+                        );
+
+                    card.className =
+                        "fr12-card";
+
+
+                    card.innerHTML = `
+
+                    <div class="red-line"></div>
+
+                    <div class="fr12-content">
+
+                    <div class="tag">
+                        🔥 FR12
+                    </div>
+
+                    <h3>
+                        ${safe(
+                            article.title
+                        )}
+                    </h3>
+
+                    <p>
+                        ${safe(
+                            article.summary ||
+                            "Nieuw FR12-bericht."
+                        )}
+                    </p>
+
+                    <div class="date">
+                        ${safe(
+                            article.date ||
+                            "Actueel"
+                        )}
+                    </div>
+
+                    </div>
+
+                    `;
+
+
+                    grid.appendChild(
+                        card
+                    );
+
+                });
+
+        }
+
+
+    }catch(error){
+
+        console.log(
+            "Data wordt nog niet geladen:",
+            error
+        );
+
+    }
+
+}
+
+
+/* VEILIGE TEKST */
+
+function safe(value){
+
+    return String(value)
+        .replaceAll("&","&amp;")
+        .replaceAll("<","&lt;")
+        .replaceAll(">","&gt;")
+        .replaceAll('"',"&quot;")
+        .replaceAll("'","&#039;");
+
+}
+
+
+/* START */
+
+loadData();
+
+
+/* ELKE 5 MINUTEN */
+
+setInterval(
+    loadData,
+    5 * 60 * 1000
+);
+
+</script>
+
+</body>
+</html>
