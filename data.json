@@ -144,6 +144,14 @@
   "standings": [
     {
       "position": 1,
+      "team": "PSV",
+      "played": 8,
+      "wins": 6,
+      "draws": 1,
+      "points": 19
+    },
+    {
+      "position": 2,
       "team": "AZ",
       "played": 7,
       "wins": 6,
@@ -151,20 +159,12 @@
       "points": 19
     },
     {
-      "position": 2,
+      "position": 3,
       "team": "Feyenoord Rotterdam",
       "played": 7,
       "wins": 5,
       "draws": 2,
       "points": 17
-    },
-    {
-      "position": 3,
-      "team": "PSV",
-      "played": 7,
-      "wins": 5,
-      "draws": 1,
-      "points": 16
     },
     {
       "position": 4,
@@ -217,7 +217,7 @@
     {
       "position": 10,
       "team": "SC Heerenveen",
-      "played": 7,
+      "played": 8,
       "wins": 2,
       "draws": 3,
       "points": 9
@@ -289,22 +289,46 @@
   ],
   "fr12": [
     {
-      "title": "09 oktober 2026 Jaarcijfers Feyenoord: omzet daalt fors, nettoverlies van 12,6 miljoen euro 16:06 108",
+      "title": "09 oktober 2026 Jaarcijfers Feyenoord: omzet daalt fors, nettoverlies van 12,6 miljoen euro 16:06 665",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/jaarcijfers-feyenoord-omzet-daalt-fors-nettoverlies-van-126-miljoen-euro"
     },
     {
-      "title": "09 oktober 2026 Read lacht om memes na Barcelona-goal: ''Die laat je zien aan de jongens'' 09:45 509",
+      "title": "09 oktober 2026 Read lacht om memes na Barcelona-goal: ''Die laat je zien aan de jongens'' 09:45 499",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/read-over-sterk-feyenoord-iedereen-zit-er-goed-in-en-voelt-zich-fris"
     },
     {
-      "title": "09 oktober 2026 Hadj Moussa na topmaand: ''Blij dat ik uiteindelijk bij Feyenoord ben gebleven'' 09:31 163",
+      "title": "09 oktober 2026 Hadj Moussa na topmaand: ''Blij dat ik uiteindelijk bij Feyenoord ben gebleven'' 09:31 174",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/hadj-moussa-na-topmaand-uiteindelijk-blij-dat-ik-bij-feyenoord-ben-gebleven"
+    },
+    {
+      "title": "'St. Juste twijfelgeval voor AZ-thuis, Van Persie ontbreekt bij Feyenoord'",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/st-juste-twijfelgeval-voor-az-thuis-van-persie-ontbreekt-bij-feyenoord"
+    },
+    {
+      "title": "Hadj Moussa lovend over Van Bronckhorst: ''Hij heeft een grote rol gespeeld''",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/hadj-moussa-lovend-over-van-bronckhorst-hij-heeft-een-grote-rol-gespeeld"
+    },
+    {
+      "title": "Feyenoord wint voor het eerst alle drie de maandprijzen",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/feyenoord-wint-voor-het-eerst-alle-drie-de-maandprijzen"
+    },
+    {
+      "title": "Van Bronckhorst trots op Zechiël: ''Een opmaat naar meer wedstrijden''",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-trots-op-zechiel-een-opmaat-naar-meer-wedstrijden"
     },
     {
       "title": "Jaarcijfers Feyenoord: omzet daalt fors, nettoverlies van 12,6 miljoen euro",
@@ -323,31 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/echteld-bevestigt-slecht-nieuws-voor-az-richting-topper-tegen-feyenoord"
-    },
-    {
-      "title": "Van Bronckhorst duidelijk: ''Voor mij is het geen optie dat hij weg mag''",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-duidelijk-over-moder-voor-mij-is-het-geen-optie-dat-hij-weg-mag"
-    },
-    {
-      "title": "Hadj Moussa inzetbaar tegen AZ, twijfel over Watanabe",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/hadj-moussa-inzetbaar-tegen-az-twijfel-over-watanabe"
-    },
-    {
-      "title": "''Je gaat weer met plezier naar het stadion, zeker de laatste weken''",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/je-gaat-weer-met-plezier-naar-het-stadion-zeker-de-laatste-weken"
-    },
-    {
-      "title": "Analisten zien Feyenoord als favoriet tegen AZ: ''De Kuip geeft extra boost''",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/analisten-zien-feyenoord-als-favoriet-tegen-az-de-kuip-geeft-extra-boost"
     }
   ],
-  "updated": "2026-10-09T14:34:56.817410+00:00"
+  "updated": "2026-10-09T19:50:08.540941+00:00"
 }
