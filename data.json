@@ -144,6 +144,14 @@
   "standings": [
     {
       "position": 1,
+      "team": "Feyenoord Rotterdam",
+      "played": 8,
+      "wins": 6,
+      "draws": 2,
+      "points": 20
+    },
+    {
+      "position": 2,
       "team": "PSV",
       "played": 8,
       "wins": 6,
@@ -151,44 +159,36 @@
       "points": 19
     },
     {
-      "position": 2,
+      "position": 3,
       "team": "AZ",
-      "played": 7,
+      "played": 8,
       "wins": 6,
       "draws": 1,
       "points": 19
     },
     {
-      "position": 3,
-      "team": "Feyenoord Rotterdam",
-      "played": 7,
+      "position": 4,
+      "team": "FC Twente '65",
+      "played": 8,
       "wins": 5,
       "draws": 2,
       "points": 17
     },
     {
-      "position": 4,
-      "team": "FC Twente '65",
-      "played": 7,
-      "wins": 5,
-      "draws": 1,
-      "points": 16
-    },
-    {
       "position": 5,
       "team": "AFC Ajax",
-      "played": 7,
+      "played": 8,
       "wins": 4,
-      "draws": 2,
-      "points": 14
+      "draws": 3,
+      "points": 15
     },
     {
       "position": 6,
       "team": "Fortuna Sittard",
-      "played": 7,
+      "played": 8,
       "wins": 4,
-      "draws": 1,
-      "points": 13
+      "draws": 2,
+      "points": 14
     },
     {
       "position": 7,
@@ -225,10 +225,10 @@
     {
       "position": 11,
       "team": "NEC",
-      "played": 7,
+      "played": 8,
       "wins": 2,
-      "draws": 2,
-      "points": 8
+      "draws": 3,
+      "points": 9
     },
     {
       "position": 12,
@@ -289,65 +289,65 @@
   ],
   "fr12": [
     {
-      "title": "10 oktober 2026 Opstelling Feyenoord: St. Juste fit, Watanabe ontbreekt 17:39 213",
+      "title": "10 oktober 2026 Feyenoord verslaat AZ en is nieuwe koploper van de Eredivisie 20:38 427",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/opstelling-feyenoord-deze-elf-beginnen-tegen-koploper-az"
+      "url": "https://www.fr12.nl/nieuws/feyenoord-verslaat-az-en-is-nieuwe-koploper-van-de-eredivisie"
     },
     {
-      "title": "09 oktober 2026 Van Bronckhorst trots op Zechiël: ''Een opmaat naar meer wedstrijden'' 16:46 280",
+      "title": "10 oktober 2026 Geef de Feyenoord-spelers een cijfer na de overwinning op AZ 20:44 246",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-trots-op-zechiel-een-opmaat-naar-meer-wedstrijden"
+      "url": "https://www.fr12.nl/nieuws/geef-de-feyenoord-spelers-een-cijfer-na-de-overwinning-op-az"
     },
     {
-      "title": "Feyenoord haalt twee talenten bij selectie: dit zijn Delianidis en Slory",
+      "title": "Stengs trots op oud-ploeggenoot Zechiël: ''Dan zie je hoe snel het kan gaan''",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-haalt-twee-talenten-bij-selectie-dit-zijn-delianidis-en-slory"
+      "url": "https://www.fr12.nl/nieuws/stengs-trots-op-oud-ploeggenoot-zechiel-dan-zie-je-hoe-snel-het-kan-gaan"
     },
     {
-      "title": "Opstelling Feyenoord: St. Juste fit, Watanabe ontbreekt",
+      "title": "St. Juste maakt indruk bij Feyenoord: ''Ik ben blij dat hij hier nog is''",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/opstelling-feyenoord-deze-elf-beginnen-tegen-koploper-az"
+      "url": "https://www.fr12.nl/nieuws/st-juste-maakt-indruk-bij-feyenoord-ik-ben-blij-dat-hij-hier-nog-is"
     },
     {
-      "title": "Cabral onder de indruk: ''Voor dat soort spelers kijk ik voetbal''",
+      "title": "Watanabe lijkt op tijd fit, Van Persie en Nelson nog onzeker bij Feyenoord",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/cabral-onder-de-indruk-voor-dat-soort-spelers-kijk-ik-voetbal"
+      "url": "https://www.fr12.nl/nieuws/watanabe-lijkt-op-tijd-fit-van-persie-en-nelson-nog-onzeker-bij-feyenoord"
     },
     {
-      "title": "Vermoedelijke opstelling Feyenoord: grote vraagtekens in defensie tegen AZ",
+      "title": "Van Bronckhorst lovend over mentaliteit: ''Koste wat kost de goal vermijden''",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/vermoedelijke-opstelling-feyenoord-grote-vraagtekens-in-defensie-tegen-az"
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-lovend-over-mentaliteit-feyenoord-koste-wat-kost-de-goal-vermijden"
     },
     {
-      "title": "Ferri barst van vertrouwen bij Feyenoord: ''Ik voelde me hier al snel op mijn plek''",
+      "title": "Ernst gaat in op veelbesproken moment: ''Ik voelde zelf echt niks''",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/ferri-barst-van-vertrouwen-bij-feyenoord-ik-voelde-me-hier-al-snel-op-mijn-plek"
+      "url": "https://www.fr12.nl/nieuws/ernst-gaat-in-op-veelbesproken-moment-ik-voelde-zelf-echt-niks"
     },
     {
-      "title": "MATCHDAY! Feyenoord en AZ strijden om koppositie in De Kuip",
+      "title": "Zechiël schuldbewust na foute terugspeelbal: ''Ik raakte hem totaal verkeerd''",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/matchday-feyenoord-en-az-strijden-om-koppositie-in-de-kuip"
+      "url": "https://www.fr12.nl/nieuws/zechiel-schuldbewust-na-foute-terugspeelbal-ik-raakte-hem-totaal-verkeerd"
     },
     {
-      "title": "'St. Juste twijfelgeval voor AZ-thuis, Van Persie ontbreekt bij Feyenoord'",
+      "title": "Valente voelt iets groeien bij Feyenoord: ''We beginnen echt een familie te worden''",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/st-juste-twijfelgeval-voor-az-thuis-van-persie-ontbreekt-bij-feyenoord"
+      "url": "https://www.fr12.nl/nieuws/valente-voelt-iets-groeien-bij-feyenoord-we-beginnen-echt-een-familie-te-worden"
     },
     {
-      "title": "Hadj Moussa lovend over Van Bronckhorst: ''Hij heeft een grote rol gespeeld''",
+      "title": "Geef de Feyenoord-spelers een cijfer na de overwinning op AZ",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/hadj-moussa-lovend-over-van-bronckhorst-hij-heeft-een-grote-rol-gespeeld"
+      "url": "https://www.fr12.nl/nieuws/geef-de-feyenoord-spelers-een-cijfer-na-de-overwinning-op-az"
     }
   ],
-  "updated": "2026-10-10T16:20:45.028156+00:00"
+  "updated": "2026-10-10T20:16:08.017531+00:00"
 }
