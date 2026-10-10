@@ -200,19 +200,19 @@
     },
     {
       "position": 8,
+      "team": "Go Ahead Eagles",
+      "played": 8,
+      "wins": 2,
+      "draws": 5,
+      "points": 11
+    },
+    {
+      "position": 9,
       "team": "FC Groningen",
       "played": 7,
       "wins": 3,
       "draws": 2,
       "points": 11
-    },
-    {
-      "position": 9,
-      "team": "Go Ahead Eagles",
-      "played": 7,
-      "wins": 2,
-      "draws": 4,
-      "points": 10
     },
     {
       "position": 10,
@@ -233,10 +233,10 @@
     {
       "position": 12,
       "team": "Sparta Rotterdam",
-      "played": 7,
+      "played": 8,
       "wins": 1,
-      "draws": 2,
-      "points": 5
+      "draws": 3,
+      "points": 6
     },
     {
       "position": 13,
@@ -289,22 +289,28 @@
   ],
   "fr12": [
     {
-      "title": "10 oktober 2026 MATCHDAY! Feyenoord en AZ strijden om koppositie in De Kuip 00:00 302",
+      "title": "10 oktober 2026 Opstelling Feyenoord: St. Juste fit, Watanabe ontbreekt 17:39 213",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/matchday-feyenoord-en-az-strijden-om-koppositie-in-de-kuip"
+      "url": "https://www.fr12.nl/nieuws/opstelling-feyenoord-deze-elf-beginnen-tegen-koploper-az"
     },
     {
-      "title": "09 oktober 2026 ''Voor mijn gevoel zitten we nog steeds in een goede flow'' 15:09 324",
+      "title": "09 oktober 2026 Van Bronckhorst trots op Zechiël: ''Een opmaat naar meer wedstrijden'' 16:46 280",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/voor-mijn-gevoel-zitten-we-nog-steeds-in-een-goede-flow"
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-trots-op-zechiel-een-opmaat-naar-meer-wedstrijden"
     },
     {
-      "title": "09 oktober 2026 ''Je gaat weer met plezier naar het stadion, zeker de laatste weken'' 13:58 165",
+      "title": "Feyenoord haalt twee talenten bij selectie: dit zijn Delianidis en Slory",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/je-gaat-weer-met-plezier-naar-het-stadion-zeker-de-laatste-weken"
+      "url": "https://www.fr12.nl/nieuws/feyenoord-haalt-twee-talenten-bij-selectie-dit-zijn-delianidis-en-slory"
+    },
+    {
+      "title": "Opstelling Feyenoord: St. Juste fit, Watanabe ontbreekt",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/opstelling-feyenoord-deze-elf-beginnen-tegen-koploper-az"
     },
     {
       "title": "Cabral onder de indruk: ''Voor dat soort spelers kijk ik voetbal''",
@@ -341,13 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/hadj-moussa-lovend-over-van-bronckhorst-hij-heeft-een-grote-rol-gespeeld"
-    },
-    {
-      "title": "Feyenoord wint voor het eerst alle drie de maandprijzen",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-wint-voor-het-eerst-alle-drie-de-maandprijzen"
     }
   ],
-  "updated": "2026-10-10T11:23:50.070448+00:00"
+  "updated": "2026-10-10T16:20:45.028156+00:00"
 }
