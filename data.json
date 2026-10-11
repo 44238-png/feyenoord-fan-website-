@@ -184,7 +184,7 @@
     },
     {
       "position": 6,
-      "team": "Fortuna Sittard",
+      "team": "FC Groningen",
       "played": 8,
       "wins": 4,
       "draws": 2,
@@ -192,11 +192,11 @@
     },
     {
       "position": 7,
-      "team": "SBV Excelsior",
-      "played": 7,
-      "wins": 3,
+      "team": "Fortuna Sittard",
+      "played": 8,
+      "wins": 4,
       "draws": 2,
-      "points": 11
+      "points": 14
     },
     {
       "position": 8,
@@ -208,8 +208,8 @@
     },
     {
       "position": 9,
-      "team": "FC Groningen",
-      "played": 7,
+      "team": "SBV Excelsior",
+      "played": 8,
       "wins": 3,
       "draws": 2,
       "points": 11
@@ -232,6 +232,22 @@
     },
     {
       "position": 12,
+      "team": "SC Cambuur-Leeuwarden",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "points": 8
+    },
+    {
+      "position": 13,
+      "team": "FC Utrecht",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "points": 8
+    },
+    {
+      "position": 14,
       "team": "Sparta Rotterdam",
       "played": 8,
       "wins": 1,
@@ -239,40 +255,24 @@
       "points": 6
     },
     {
-      "position": 13,
-      "team": "FC Utrecht",
+      "position": 15,
+      "team": "Telstar 1963",
       "played": 8,
       "wins": 1,
       "draws": 3,
       "points": 6
     },
     {
-      "position": 14,
-      "team": "Telstar 1963",
-      "played": 7,
-      "wins": 1,
-      "draws": 2,
-      "points": 5
-    },
-    {
-      "position": 15,
-      "team": "SC Cambuur-Leeuwarden",
-      "played": 7,
-      "wins": 1,
-      "draws": 2,
-      "points": 5
-    },
-    {
       "position": 16,
       "team": "PEC Zwolle",
-      "played": 7,
+      "played": 8,
       "wins": 1,
       "draws": 1,
       "points": 4
     },
     {
       "position": 17,
-      "team": "Willem II Tilburg",
+      "team": "ADO Den Haag",
       "played": 8,
       "wins": 0,
       "draws": 3,
@@ -280,8 +280,8 @@
     },
     {
       "position": 18,
-      "team": "ADO Den Haag",
-      "played": 7,
+      "team": "Willem II Tilburg",
+      "played": 8,
       "wins": 0,
       "draws": 2,
       "points": 2
@@ -289,22 +289,40 @@
   ],
   "fr12": [
     {
-      "title": "10 oktober 2026 Feyenoord grote winnaar van zaterdag: Ajax en Twente verspelen punten 23:31 697",
+      "title": "11 oktober 2026 Oud-Feyenoorder Henk van der Bijl op 101-jarige leeftijd overleden 14:57 164",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-grote-winnaar-van-zaterdag-ajax-en-twente-verspelen-punten"
+      "url": "https://www.fr12.nl/nieuws/oud-feyenoorder-henk-van-der-bijl-op-101-jarige-leeftijd-overleden"
     },
     {
-      "title": "11 oktober 2026 St. Juste: \"Het geeft ons zo'n boost als De Kuip op zo'n manier achter ons staat\" 09:07 345",
+      "title": "11 oktober 2026 St. Juste: \"Het geeft ons zo'n boost als De Kuip op zo'n manier achter ons staat\" 09:07 370",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/st-juste-het-geeft-ons-zon-boost-als-de-kuip-op-zon-manier-achter-ons-staat"
     },
     {
-      "title": "10 oktober 2026 Van Bronckhorst lovend over mentaliteit: ''Koste wat kost de goal vermijden'' 21:37 118",
+      "title": "10 oktober 2026 Van Bronckhorst lovend over mentaliteit: ''Koste wat kost de goal vermijden'' 21:37 119",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-lovend-over-mentaliteit-feyenoord-koste-wat-kost-de-goal-vermijden"
+    },
+    {
+      "title": "Eredivisie: Feyenoord op eerste plek na acht speelrondes",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/eredivisie-feyenoord-op-eerste-plek-na-acht-speelrondes"
+    },
+    {
+      "title": "Ernst voert Eredivisie aan met meeste clean sheets na zege op AZ",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/ernst-voert-eredivisie-aan-met-meeste-clean-sheets-na-zege-op-az"
+    },
+    {
+      "title": "Oud-Feyenoorder Henk van der Bijl op 101-jarige leeftijd overleden",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/oud-feyenoorder-henk-van-der-bijl-op-101-jarige-leeftijd-overleden"
     },
     {
       "title": "\"De wisselwerking tussen de spelers en het publiek vond ik geweldig\"",
@@ -329,25 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-dat-is-de-grootste-winst-voor-hem-dit-seizoen"
-    },
-    {
-      "title": "Nieuwe status voor Zechiël: \"Het is dan ook het mentale aspect\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/nieuwe-status-voor-zechiel-het-is-dan-ook-het-mentale-aspect"
-    },
-    {
-      "title": "St. Juste: \"Het geeft ons zo'n boost als De Kuip op zo'n manier achter ons staat\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/st-juste-het-geeft-ons-zon-boost-als-de-kuip-op-zon-manier-achter-ons-staat"
-    },
-    {
-      "title": "\"Op dit moment maakt hij wel duidelijk waarom hij de eerste spits is\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/op-dit-moment-maakt-hij-wel-duidelijk-waarom-hij-de-eerste-spits-is"
     }
   ],
-  "updated": "2026-10-11T11:33:13.094433+00:00"
+  "updated": "2026-10-11T16:47:15.370541+00:00"
 }
