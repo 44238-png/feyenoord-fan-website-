@@ -240,6 +240,14 @@
     },
     {
       "position": 13,
+      "team": "FC Utrecht",
+      "played": 8,
+      "wins": 1,
+      "draws": 3,
+      "points": 6
+    },
+    {
+      "position": 14,
       "team": "Telstar 1963",
       "played": 7,
       "wins": 1,
@@ -247,16 +255,8 @@
       "points": 5
     },
     {
-      "position": 14,
-      "team": "SC Cambuur-Leeuwarden",
-      "played": 7,
-      "wins": 1,
-      "draws": 2,
-      "points": 5
-    },
-    {
       "position": 15,
-      "team": "FC Utrecht",
+      "team": "SC Cambuur-Leeuwarden",
       "played": 7,
       "wins": 1,
       "draws": 2,
@@ -272,15 +272,15 @@
     },
     {
       "position": 17,
-      "team": "ADO Den Haag",
-      "played": 7,
+      "team": "Willem II Tilburg",
+      "played": 8,
       "wins": 0,
-      "draws": 2,
-      "points": 2
+      "draws": 3,
+      "points": 3
     },
     {
       "position": 18,
-      "team": "Willem II Tilburg",
+      "team": "ADO Den Haag",
       "played": 7,
       "wins": 0,
       "draws": 2,
@@ -289,65 +289,65 @@
   ],
   "fr12": [
     {
-      "title": "10 oktober 2026 Feyenoord grote winnaar van zaterdag: Ajax en Twente verspelen punten 23:31 0",
+      "title": "10 oktober 2026 Feyenoord grote winnaar van zaterdag: Ajax en Twente verspelen punten 23:31 697",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/feyenoord-grote-winnaar-van-zaterdag-ajax-en-twente-verspelen-punten"
     },
     {
-      "title": "10 oktober 2026 Geef de Feyenoord-spelers een cijfer na de overwinning op AZ 20:44 260",
+      "title": "11 oktober 2026 St. Juste: \"Het geeft ons zo'n boost als De Kuip op zo'n manier achter ons staat\" 09:07 345",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/geef-de-feyenoord-spelers-een-cijfer-na-de-overwinning-op-az"
+      "url": "https://www.fr12.nl/nieuws/st-juste-het-geeft-ons-zon-boost-als-de-kuip-op-zon-manier-achter-ons-staat"
     },
     {
-      "title": "Feyenoord grote winnaar van zaterdag: Ajax en Twente verspelen punten",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-grote-winnaar-van-zaterdag-ajax-en-twente-verspelen-punten"
-    },
-    {
-      "title": "Stengs trots op oud-ploeggenoot Zechiël: ''Dan zie je hoe snel het kan gaan''",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/stengs-trots-op-oud-ploeggenoot-zechiel-dan-zie-je-hoe-snel-het-kan-gaan"
-    },
-    {
-      "title": "St. Juste maakt indruk bij Feyenoord: ''Ik ben blij dat hij hier nog is''",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/st-juste-maakt-indruk-bij-feyenoord-ik-ben-blij-dat-hij-hier-nog-is"
-    },
-    {
-      "title": "Watanabe lijkt op tijd fit, Van Persie en Nelson nog onzeker bij Feyenoord",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/watanabe-lijkt-op-tijd-fit-van-persie-en-nelson-nog-onzeker-bij-feyenoord"
-    },
-    {
-      "title": "Van Bronckhorst lovend over mentaliteit: ''Koste wat kost de goal vermijden''",
+      "title": "10 oktober 2026 Van Bronckhorst lovend over mentaliteit: ''Koste wat kost de goal vermijden'' 21:37 118",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-lovend-over-mentaliteit-feyenoord-koste-wat-kost-de-goal-vermijden"
     },
     {
-      "title": "Ernst gaat in op veelbesproken moment: ''Ik voelde zelf echt niks''",
+      "title": "\"De wisselwerking tussen de spelers en het publiek vond ik geweldig\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/ernst-gaat-in-op-veelbesproken-moment-ik-voelde-zelf-echt-niks"
+      "url": "https://www.fr12.nl/nieuws/de-wisselwerking-tussen-de-spelers-en-het-publiek-vond-ik-geweldig"
     },
     {
-      "title": "Zechiël schuldbewust na foute terugspeelbal: ''Ik raakte hem totaal verkeerd''",
+      "title": "Scheidsrechtersbaas steunt beslissing Makkelie na veelbesproken penaltymoment",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/zechiel-schuldbewust-na-foute-terugspeelbal-ik-raakte-hem-totaal-verkeerd"
+      "url": "https://www.fr12.nl/nieuws/scheidsrechtersbaas-steunt-beslissing-makkelie-na-veelbesproken-penaltymoment"
     },
     {
-      "title": "Valente voelt iets groeien bij Feyenoord: ''We beginnen echt een familie te worden''",
+      "title": "Meerdink: \"Ik hoorde net dat de VAR verkeerde beelden heeft gekregen\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/valente-voelt-iets-groeien-bij-feyenoord-we-beginnen-echt-een-familie-te-worden"
+      "url": "https://www.fr12.nl/nieuws/meerdink-ik-hoorde-net-dat-de-var-verkeerde-beelden-heeft-gekregen"
+    },
+    {
+      "title": "Van Bronckhorst: \"Dat is de grootste winst voor hem dit seizoen\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-dat-is-de-grootste-winst-voor-hem-dit-seizoen"
+    },
+    {
+      "title": "Nieuwe status voor Zechiël: \"Het is dan ook het mentale aspect\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/nieuwe-status-voor-zechiel-het-is-dan-ook-het-mentale-aspect"
+    },
+    {
+      "title": "St. Juste: \"Het geeft ons zo'n boost als De Kuip op zo'n manier achter ons staat\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/st-juste-het-geeft-ons-zon-boost-als-de-kuip-op-zon-manier-achter-ons-staat"
+    },
+    {
+      "title": "\"Op dit moment maakt hij wel duidelijk waarom hij de eerste spits is\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/op-dit-moment-maakt-hij-wel-duidelijk-waarom-hij-de-eerste-spits-is"
     }
   ],
-  "updated": "2026-10-11T05:22:02.471900+00:00"
+  "updated": "2026-10-11T11:33:13.094433+00:00"
 }
