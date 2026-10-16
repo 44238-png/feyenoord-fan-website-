@@ -200,6 +200,14 @@
     },
     {
       "position": 8,
+      "team": "SBV Excelsior",
+      "played": 9,
+      "wins": 3,
+      "draws": 3,
+      "points": 12
+    },
+    {
+      "position": 9,
       "team": "Go Ahead Eagles",
       "played": 8,
       "wins": 2,
@@ -207,20 +215,12 @@
       "points": 11
     },
     {
-      "position": 9,
-      "team": "SBV Excelsior",
-      "played": 8,
-      "wins": 3,
-      "draws": 2,
-      "points": 11
-    },
-    {
       "position": 10,
       "team": "SC Heerenveen",
-      "played": 8,
+      "played": 9,
       "wins": 2,
-      "draws": 3,
-      "points": 9
+      "draws": 4,
+      "points": 10
     },
     {
       "position": 11,
@@ -289,16 +289,34 @@
   ],
   "fr12": [
     {
-      "title": "16 oktober 2026 Positieve update over Valente: \"Hij zit morgen ook bij de selectie\" 14:33 97",
+      "title": "16 oktober 2026 Positieve update over Valente: \"Hij zit morgen ook bij de selectie\" 14:33 158",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/positieve-update-over-valente-hij-zit-morgen-ook-bij-de-selectie"
     },
     {
-      "title": "15 oktober 2026 El Ahmadi ziet sterk Feyenoord ontstaan: ''Het is echt een ploeg aan het worden'' 08:57 319",
+      "title": "16 oktober 2026 Van Bronckhorst: \"Ik heb meer spelers die staan te popelen om te spelen\" 15:06 74",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/el-ahmadi-ziet-sterk-feyenoord-ontstaan-het-is-echt-een-ploeg-aan-het-worden"
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-ik-heb-meer-spelers-die-staan-te-popelen-om-te-spelen"
+    },
+    {
+      "title": "Kieft ziet verandering bij Van Bronckhorst: \"Nu is het aantrekkelijk om te zien\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/kieft-ziet-verandering-bij-van-bronckhorst-nu-is-het-aantrekkelijk-om-te-zien"
+    },
+    {
+      "title": "\"Als Hadj Moussa echt constant wordt, is hij van het niveau Arjen Robben\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/als-hadj-moussa-echt-constant-wordt-is-hij-van-het-niveau-arjen-robben"
+    },
+    {
+      "title": "De Jong: \"We hebben de clubs gewaarschuwd voor wat hen te wachten staat\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/de-jong-we-hebben-de-clubs-gewaarschuwd-voor-wat-hen-te-wachten-staat"
     },
     {
       "title": "St. Juste: \"Het is heel fijn om dit te winnen, maar het weegt niet zwaarder\"",
@@ -329,25 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/vertrouwen-bij-telstar-in-aanloop-naar-duel-tegen-feyenoord-we-gaan-winnen"
-    },
-    {
-      "title": "Positieve update over Valente: \"Hij zit morgen ook bij de selectie\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/positieve-update-over-valente-hij-zit-morgen-ook-bij-de-selectie"
-    },
-    {
-      "title": "Ontdekkers Ferri vol vertrouwen: ''Hij is heel gelukkig bij Feyenoord''",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/ontdekkers-ferri-vol-vertrouwen-hij-is-heel-gelukkig-bij-feyenoord"
-    },
-    {
-      "title": "Vanmiddag persconferentie: inzetbaarheid Valente grootste vraagteken",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/vanmiddag-persconferentie-van-bronckhorst-inzetbaarheid-valente-grootste-vraagteken"
     }
   ],
-  "updated": "2026-10-16T14:09:19.990577+00:00"
+  "updated": "2026-10-16T18:05:58.721679+00:00"
 }
