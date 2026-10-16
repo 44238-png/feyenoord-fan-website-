@@ -200,7 +200,7 @@
     },
     {
       "position": 8,
-      "team": "SBV Excelsior",
+      "team": "SC Heerenveen",
       "played": 9,
       "wins": 3,
       "draws": 3,
@@ -216,11 +216,11 @@
     },
     {
       "position": 10,
-      "team": "SC Heerenveen",
+      "team": "SBV Excelsior",
       "played": 9,
-      "wins": 2,
-      "draws": 4,
-      "points": 10
+      "wins": 3,
+      "draws": 2,
+      "points": 11
     },
     {
       "position": 11,
@@ -289,16 +289,28 @@
   ],
   "fr12": [
     {
-      "title": "16 oktober 2026 Positieve update over Valente: \"Hij zit morgen ook bij de selectie\" 14:33 158",
+      "title": "16 oktober 2026 Positieve update over Valente: \"Hij zit morgen ook bij de selectie\" 14:33 171",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/positieve-update-over-valente-hij-zit-morgen-ook-bij-de-selectie"
     },
     {
-      "title": "16 oktober 2026 Van Bronckhorst: \"Ik heb meer spelers die staan te popelen om te spelen\" 15:06 74",
+      "title": "16 oktober 2026 De Jong: \"We hebben de clubs gewaarschuwd voor wat hen te wachten staat\" 16:31 259",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/de-jong-we-hebben-de-clubs-gewaarschuwd-voor-wat-hen-te-wachten-staat"
+    },
+    {
+      "title": "16 oktober 2026 Van Bronckhorst: \"Ik heb meer spelers die staan te popelen om te spelen\" 15:06 93",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-ik-heb-meer-spelers-die-staan-te-popelen-om-te-spelen"
+    },
+    {
+      "title": "Feyenoord-huurling Ouarghi verkozen tot Beste Talent van eerste periode",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/feyenoord-huurling-ouarghi-verkozen-tot-beste-talent-van-eerste-periode"
     },
     {
       "title": "Kieft ziet verandering bij Van Bronckhorst: \"Nu is het aantrekkelijk om te zien\"",
@@ -335,19 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-ik-heb-meer-spelers-die-staan-te-popelen-om-te-spelen"
-    },
-    {
-      "title": "Van Persie terug op trainingsveld; Nelson sluit volgende week weer aan",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-persie-terug-op-trainingsveld-nelson-sluit-volgende-week-weer-aan"
-    },
-    {
-      "title": "Vertrouwen bij Telstar in aanloop naar duel tegen Feyenoord: \"We gaan winnen\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/vertrouwen-bij-telstar-in-aanloop-naar-duel-tegen-feyenoord-we-gaan-winnen"
     }
   ],
-  "updated": "2026-10-16T18:05:58.721679+00:00"
+  "updated": "2026-10-16T21:14:24.735321+00:00"
 }
