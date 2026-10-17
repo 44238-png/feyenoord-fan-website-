@@ -232,6 +232,14 @@
     },
     {
       "position": 12,
+      "team": "Sparta Rotterdam",
+      "played": 9,
+      "wins": 2,
+      "draws": 3,
+      "points": 9
+    },
+    {
+      "position": 13,
       "team": "SC Cambuur-Leeuwarden",
       "played": 8,
       "wins": 2,
@@ -239,7 +247,7 @@
       "points": 8
     },
     {
-      "position": 13,
+      "position": 14,
       "team": "FC Utrecht",
       "played": 8,
       "wins": 2,
@@ -247,23 +255,7 @@
       "points": 8
     },
     {
-      "position": 14,
-      "team": "Sparta Rotterdam",
-      "played": 9,
-      "wins": 1,
-      "draws": 3,
-      "points": 6
-    },
-    {
       "position": 15,
-      "team": "ADO Den Haag",
-      "played": 9,
-      "wins": 1,
-      "draws": 3,
-      "points": 6
-    },
-    {
-      "position": 16,
       "team": "Telstar 1963",
       "played": 9,
       "wins": 1,
@@ -271,83 +263,91 @@
       "points": 6
     },
     {
-      "position": 17,
-      "team": "Willem II Tilburg",
+      "position": 16,
+      "team": "ADO Den Haag",
       "played": 9,
       "wins": 1,
-      "draws": 2,
-      "points": 5
+      "draws": 3,
+      "points": 6
     },
     {
-      "position": 18,
+      "position": 17,
       "team": "PEC Zwolle",
       "played": 8,
       "wins": 1,
       "draws": 1,
       "points": 4
+    },
+    {
+      "position": 18,
+      "team": "Willem II Tilburg",
+      "played": 9,
+      "wins": 0,
+      "draws": 2,
+      "points": 2
     }
   ],
   "fr12": [
     {
-      "title": "17 oktober 2026 Van Bronckhorst rouleert in zijn opstelling tegen Telstar 18:44 826",
+      "title": "17 oktober 2026 Feyenoord wint doelpuntrijk duel tegen Telstar en profiteert van misstap PSV 21:59 846",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/dit-is-de-opstelling-van-feyenoord-op-bezoek-bij-telstar"
+      "url": "https://www.fr12.nl/nieuws/feyenoord-wint-doelpuntrijk-duel-tegen-telstar-en-profiteert-van-misstap-psv"
     },
     {
-      "title": "Feyenoord houdt Telstar in de wedstrijd: \"Ze gingen moeilijke oplossingen bedenken\"",
+      "title": "17 oktober 2026 Koeman Jr. vol ongeloof: \"Hij zei tegen mij: eindelijk maak ik mijn eigen keuzes\" 22:20 409",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-houdt-telstar-in-de-wedstrijd-ze-gingen-moeilijke-oplossingen-bedenken"
+      "url": "https://www.fr12.nl/nieuws/koeman-jr-vol-ongeloof-hij-zei-tegen-mij-eindelijk-maak-ik-mijn-eigen-keuzes"
     },
     {
-      "title": "Van Bronckhorst: \"We hebben wel een systeem dat bij iedereen bekend is\"",
+      "title": "\"Dat hebben we niet gedaan en dat lukte in voorgaande wedstrijden wel\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-we-hebben-wel-een-systeem-dat-bij-iedereen-bekend-is"
+      "url": "https://www.fr12.nl/nieuws/dat-hebben-we-niet-gedaan-en-dat-lukte-in-voorgaande-wedstrijden-wel"
     },
     {
-      "title": "Van Bronckhorst rouleert in zijn opstelling tegen Telstar",
+      "title": "Read: \"Iedereen wist dat het beter moest, maar het was heel lastig\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/dit-is-de-opstelling-van-feyenoord-op-bezoek-bij-telstar"
+      "url": "https://www.fr12.nl/nieuws/read-iedereen-wist-dat-het-beter-moest-maar-het-was-heel-lastig"
     },
     {
-      "title": "Eredivisie: PSV verliest met tien man in aanloop naar topper tegen Feyenoord",
+      "title": "Steijn ontevreden over rol bij Feyenoord: \"Ik moet mijn voeten laten spreken\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/eredivisie-psv-verliest-met-tien-man-in-aanloop-naar-topper-tegen-feyenoord"
+      "url": "https://www.fr12.nl/nieuws/steijn-ontevreden-over-rol-bij-feyenoord-ik-moet-mijn-voeten-laten-spreken"
     },
     {
-      "title": "Mijnans mist topper tegen Feyenoord door rode kaart; zorgen om Til bij PSV",
+      "title": "Van Bronckhorst over minste wedstrijd van het seizoen: \"We moesten diep gaan\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/mijnans-mist-topper-tegen-feyenoord-door-rode-kaart-zorgen-om-til-bij-psv"
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-over-minste-wedstrijd-van-het-seizoen-we-moesten-diep-gaan"
     },
     {
-      "title": "\"Laat al die mensen beseffen dat ze goud in handen hebben met deze leiding\"",
+      "title": "Koeman Jr. vol ongeloof: \"Hij zei tegen mij: eindelijk maak ik mijn eigen keuzes\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/laat-al-die-mensen-beseffen-dat-ze-goud-in-handen-hebben-met-deze-leiding"
+      "url": "https://www.fr12.nl/nieuws/koeman-jr-vol-ongeloof-hij-zei-tegen-mij-eindelijk-maak-ik-mijn-eigen-keuzes"
     },
     {
-      "title": "Diarra geniet bij Feyenoord: \"Ik voel mij echt heel goed op dit moment\"",
+      "title": "Valente: \"We wisten dat het een heel moeilijke pot zou worden\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/diarra-geniet-bij-feyenoord-ik-voel-mij-echt-heel-goed-op-dit-moment"
+      "url": "https://www.fr12.nl/nieuws/valente-we-wisten-dat-het-een-heel-moeilijke-pot-zou-worden"
     },
     {
-      "title": "Feyenoord evenaart productiecijfers uit 1995/96; Ferri in bijzonder rijtje",
+      "title": "Beoordeel de spelers van Feyenoord na spannende overwinning op Telstar",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-evenaart-productiecijfers-uit-199596-ferri-in-bijzonder-rijtje"
+      "url": "https://www.fr12.nl/nieuws/beoordeel-de-spelers-van-feyenoord-na-spannende-overwinning-op-telstar"
     },
     {
-      "title": "\"Wat Feyenoord daarna liet zien, heeft veel indruk gemaakt in Italië\"",
+      "title": "Feyenoord wint doelpuntrijk duel tegen Telstar en profiteert van misstap PSV",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/wat-feyenoord-daarna-liet-zien-heeft-veel-indruk-gemaakt-in-italie"
+      "url": "https://www.fr12.nl/nieuws/feyenoord-wint-doelpuntrijk-duel-tegen-telstar-en-profiteert-van-misstap-psv"
     }
   ],
-  "updated": "2026-10-17T19:30:31.119313+00:00"
+  "updated": "2026-10-17T21:45:59.997504+00:00"
 }
