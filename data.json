@@ -160,6 +160,14 @@
     },
     {
       "position": 3,
+      "team": "FC Twente '65",
+      "played": 9,
+      "wins": 6,
+      "draws": 2,
+      "points": 20
+    },
+    {
+      "position": 4,
       "team": "PSV",
       "played": 9,
       "wins": 6,
@@ -167,7 +175,7 @@
       "points": 19
     },
     {
-      "position": 4,
+      "position": 5,
       "team": "AFC Ajax",
       "played": 9,
       "wins": 5,
@@ -175,25 +183,17 @@
       "points": 18
     },
     {
-      "position": 5,
-      "team": "FC Twente '65",
-      "played": 8,
-      "wins": 5,
-      "draws": 2,
-      "points": 17
-    },
-    {
       "position": 6,
-      "team": "FC Groningen",
+      "team": "Fortuna Sittard",
       "played": 9,
       "wins": 4,
-      "draws": 2,
-      "points": 14
+      "draws": 3,
+      "points": 15
     },
     {
       "position": 7,
-      "team": "Fortuna Sittard",
-      "played": 8,
+      "team": "FC Groningen",
+      "played": 9,
       "wins": 4,
       "draws": 2,
       "points": 14
@@ -225,10 +225,10 @@
     {
       "position": 11,
       "team": "NEC",
-      "played": 8,
+      "played": 9,
       "wins": 2,
-      "draws": 3,
-      "points": 9
+      "draws": 4,
+      "points": 10
     },
     {
       "position": 12,
@@ -249,7 +249,7 @@
     {
       "position": 14,
       "team": "FC Utrecht",
-      "played": 8,
+      "played": 9,
       "wins": 2,
       "draws": 2,
       "points": 8
@@ -289,19 +289,19 @@
   ],
   "fr12": [
     {
-      "title": "17 oktober 2026 Feyenoord wint doelpuntrijk duel tegen Telstar en profiteert van misstap PSV 21:59 993",
+      "title": "17 oktober 2026 Feyenoord wint doelpuntrijk duel tegen Telstar en profiteert van misstap PSV 21:59 1033",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/feyenoord-wint-doelpuntrijk-duel-tegen-telstar-en-profiteert-van-misstap-psv"
     },
     {
-      "title": "17 oktober 2026 Van Bronckhorst over minste wedstrijd van het seizoen: \"We moesten diep gaan\" 22:41 143",
+      "title": "17 oktober 2026 Van Bronckhorst over minste wedstrijd van het seizoen: \"We moesten diep gaan\" 22:41 145",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-over-minste-wedstrijd-van-het-seizoen-we-moesten-diep-gaan"
     },
     {
-      "title": "17 oktober 2026 Koeman Jr. vol ongeloof: \"Hij zei tegen mij: eindelijk maak ik mijn eigen keuzes\" 22:20 491",
+      "title": "17 oktober 2026 Koeman Jr. vol ongeloof: \"Hij zei tegen mij: eindelijk maak ik mijn eigen keuzes\" 22:20 494",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/koeman-jr-vol-ongeloof-hij-zei-tegen-mij-eindelijk-maak-ik-mijn-eigen-keuzes"
@@ -349,5 +349,5 @@
       "url": "https://www.fr12.nl/nieuws/stadion-telstar-ontruimd-na-duel-met-feyenoord-vanwege-mogelijk-gevonden-vuurwerk"
     }
   ],
-  "updated": "2026-10-18T16:34:10.463536+00:00"
+  "updated": "2026-10-18T18:58:14.044326+00:00"
 }
