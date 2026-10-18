@@ -168,6 +168,14 @@
     },
     {
       "position": 4,
+      "team": "AFC Ajax",
+      "played": 9,
+      "wins": 5,
+      "draws": 3,
+      "points": 18
+    },
+    {
+      "position": 5,
       "team": "FC Twente '65",
       "played": 8,
       "wins": 5,
@@ -175,17 +183,9 @@
       "points": 17
     },
     {
-      "position": 5,
-      "team": "AFC Ajax",
-      "played": 8,
-      "wins": 4,
-      "draws": 3,
-      "points": 15
-    },
-    {
       "position": 6,
       "team": "FC Groningen",
-      "played": 8,
+      "played": 9,
       "wins": 4,
       "draws": 2,
       "points": 14
@@ -289,22 +289,28 @@
   ],
   "fr12": [
     {
-      "title": "17 oktober 2026 Feyenoord wint doelpuntrijk duel tegen Telstar en profiteert van misstap PSV 21:59 935",
+      "title": "17 oktober 2026 Feyenoord wint doelpuntrijk duel tegen Telstar en profiteert van misstap PSV 21:59 993",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/feyenoord-wint-doelpuntrijk-duel-tegen-telstar-en-profiteert-van-misstap-psv"
     },
     {
-      "title": "17 oktober 2026 Van Bronckhorst over minste wedstrijd van het seizoen: \"We moesten diep gaan\" 22:41 118",
+      "title": "17 oktober 2026 Van Bronckhorst over minste wedstrijd van het seizoen: \"We moesten diep gaan\" 22:41 143",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-over-minste-wedstrijd-van-het-seizoen-we-moesten-diep-gaan"
     },
     {
-      "title": "17 oktober 2026 Koeman Jr. vol ongeloof: \"Hij zei tegen mij: eindelijk maak ik mijn eigen keuzes\" 22:20 468",
+      "title": "17 oktober 2026 Koeman Jr. vol ongeloof: \"Hij zei tegen mij: eindelijk maak ik mijn eigen keuzes\" 22:20 491",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/koeman-jr-vol-ongeloof-hij-zei-tegen-mij-eindelijk-maak-ik-mijn-eigen-keuzes"
+    },
+    {
+      "title": "Eredivisie: AZ profiteert niet van overtal en speelt gelijk tegen Cambuur",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/eredivisie-az-profiteert-niet-van-overtal-en-speelt-gelijk-tegen-cambuur"
     },
     {
       "title": "''Belangrijke punten, vorig seizoen verloren we dit soort wedstrijden''",
@@ -341,13 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/stadion-telstar-ontruimd-na-duel-met-feyenoord-vanwege-mogelijk-gevonden-vuurwerk"
-    },
-    {
-      "title": "\"Dat hebben we niet gedaan en dat lukte in voorgaande wedstrijden wel\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/dat-hebben-we-niet-gedaan-en-dat-lukte-in-voorgaande-wedstrijden-wel"
     }
   ],
-  "updated": "2026-10-18T13:08:21.585394+00:00"
+  "updated": "2026-10-18T16:34:10.463536+00:00"
 }
