@@ -152,16 +152,16 @@
     },
     {
       "position": 2,
-      "team": "PSV",
+      "team": "AZ",
       "played": 9,
       "wins": 6,
-      "draws": 1,
-      "points": 19
+      "draws": 2,
+      "points": 20
     },
     {
       "position": 3,
-      "team": "AZ",
-      "played": 8,
+      "team": "PSV",
+      "played": 9,
       "wins": 6,
       "draws": 1,
       "points": 19
@@ -209,7 +209,7 @@
     {
       "position": 9,
       "team": "Go Ahead Eagles",
-      "played": 8,
+      "played": 9,
       "wins": 2,
       "draws": 5,
       "points": 11
@@ -241,10 +241,10 @@
     {
       "position": 13,
       "team": "SC Cambuur-Leeuwarden",
-      "played": 8,
+      "played": 9,
       "wins": 2,
-      "draws": 2,
-      "points": 8
+      "draws": 3,
+      "points": 9
     },
     {
       "position": 14,
@@ -256,6 +256,14 @@
     },
     {
       "position": 15,
+      "team": "PEC Zwolle",
+      "played": 9,
+      "wins": 2,
+      "draws": 1,
+      "points": 7
+    },
+    {
+      "position": 16,
       "team": "Telstar 1963",
       "played": 9,
       "wins": 1,
@@ -263,20 +271,12 @@
       "points": 6
     },
     {
-      "position": 16,
+      "position": 17,
       "team": "ADO Den Haag",
       "played": 9,
       "wins": 1,
       "draws": 3,
       "points": 6
-    },
-    {
-      "position": 17,
-      "team": "PEC Zwolle",
-      "played": 8,
-      "wins": 1,
-      "draws": 1,
-      "points": 4
     },
     {
       "position": 18,
@@ -289,22 +289,28 @@
   ],
   "fr12": [
     {
-      "title": "17 oktober 2026 Feyenoord wint doelpuntrijk duel tegen Telstar en profiteert van misstap PSV 21:59 927",
+      "title": "17 oktober 2026 Feyenoord wint doelpuntrijk duel tegen Telstar en profiteert van misstap PSV 21:59 935",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/feyenoord-wint-doelpuntrijk-duel-tegen-telstar-en-profiteert-van-misstap-psv"
     },
     {
-      "title": "17 oktober 2026 Van Bronckhorst over minste wedstrijd van het seizoen: \"We moesten diep gaan\" 22:41 111",
+      "title": "17 oktober 2026 Van Bronckhorst over minste wedstrijd van het seizoen: \"We moesten diep gaan\" 22:41 118",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-over-minste-wedstrijd-van-het-seizoen-we-moesten-diep-gaan"
     },
     {
-      "title": "17 oktober 2026 Koeman Jr. vol ongeloof: \"Hij zei tegen mij: eindelijk maak ik mijn eigen keuzes\" 22:20 456",
+      "title": "17 oktober 2026 Koeman Jr. vol ongeloof: \"Hij zei tegen mij: eindelijk maak ik mijn eigen keuzes\" 22:20 468",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/koeman-jr-vol-ongeloof-hij-zei-tegen-mij-eindelijk-maak-ik-mijn-eigen-keuzes"
+    },
+    {
+      "title": "''Belangrijke punten, vorig seizoen verloren we dit soort wedstrijden''",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/belangrijke-punten-vorig-seizoen-verloren-we-dit-soort-wedstrijden"
     },
     {
       "title": "Ouarghi duidelijk over zijn ambitie: \"Feyenoord is mijn club\"",
@@ -341,13 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/dat-hebben-we-niet-gedaan-en-dat-lukte-in-voorgaande-wedstrijden-wel"
-    },
-    {
-      "title": "Read: \"Iedereen wist dat het beter moest, maar het was heel lastig\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/read-iedereen-wist-dat-het-beter-moest-maar-het-was-heel-lastig"
     }
   ],
-  "updated": "2026-10-18T08:52:44.438795+00:00"
+  "updated": "2026-10-18T13:08:21.585394+00:00"
 }
