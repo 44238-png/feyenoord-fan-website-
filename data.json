@@ -184,6 +184,14 @@
     },
     {
       "position": 6,
+      "team": "SC Heerenveen",
+      "played": 10,
+      "wins": 4,
+      "draws": 3,
+      "points": 15
+    },
+    {
+      "position": 7,
       "team": "Fortuna Sittard",
       "played": 9,
       "wins": 4,
@@ -191,7 +199,7 @@
       "points": 15
     },
     {
-      "position": 7,
+      "position": 8,
       "team": "FC Groningen",
       "played": 9,
       "wins": 4,
@@ -199,20 +207,12 @@
       "points": 14
     },
     {
-      "position": 8,
+      "position": 9,
       "team": "Go Ahead Eagles",
       "played": 10,
       "wins": 3,
       "draws": 5,
       "points": 14
-    },
-    {
-      "position": 9,
-      "team": "SC Heerenveen",
-      "played": 10,
-      "wins": 3,
-      "draws": 4,
-      "points": 13
     },
     {
       "position": 10,
@@ -264,15 +264,15 @@
     },
     {
       "position": 16,
-      "team": "ADO Den Haag",
+      "team": "Telstar 1963",
       "played": 10,
       "wins": 1,
-      "draws": 4,
-      "points": 7
+      "draws": 3,
+      "points": 6
     },
     {
       "position": 17,
-      "team": "Telstar 1963",
+      "team": "ADO Den Haag",
       "played": 10,
       "wins": 1,
       "draws": 3,
@@ -289,10 +289,16 @@
   ],
   "fr12": [
     {
-      "title": "23 oktober 2026 Eenhoorn duidelijk over financiële situatie Feyenoord: ''Gigantisch bedrag'' 11:35 511",
+      "title": "23 oktober 2026 Eenhoorn wil efficiëntere structuur: \"We hebben met tien entiteiten te maken\" 20:05 930",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/eenhoorn-duidelijk-over-financiele-situatie-feyenoord-gigantisch-bedrag"
+      "url": "https://www.fr12.nl/nieuws/eenhoorn-wil-efficientere-structuur-we-hebben-met-tien-entiteiten-te-maken"
+    },
+    {
+      "title": "23 oktober 2026 Bosz: \"Dat gevoel zal Feyenoord ook hebben na deze midweek\" 15:41 134",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/bosz-dat-gevoel-zal-feyenoord-ook-hebben-na-deze-midweek"
     },
     {
       "title": "Data biedt Feyenoord hoop: ''PSV geeft gigantisch veel kansen weg''",
@@ -341,13 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-over-spel-van-hadj-moussa-daar-moet-je-soms-doorheen-kijken"
-    },
-    {
-      "title": "Bosz: \"Dat gevoel zal Feyenoord ook hebben na deze midweek\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/bosz-dat-gevoel-zal-feyenoord-ook-hebben-na-deze-midweek"
     }
   ],
-  "updated": "2026-10-24T19:22:10.543219+00:00"
+  "updated": "2026-10-24T21:48:22.679357+00:00"
 }
