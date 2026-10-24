@@ -216,15 +216,15 @@
     },
     {
       "position": 10,
-      "team": "SBV Excelsior",
-      "played": 9,
+      "team": "FC Utrecht",
+      "played": 10,
       "wins": 3,
-      "draws": 2,
-      "points": 11
+      "draws": 3,
+      "points": 12
     },
     {
       "position": 11,
-      "team": "FC Utrecht",
+      "team": "SBV Excelsior",
       "played": 9,
       "wins": 3,
       "draws": 2,
@@ -240,15 +240,15 @@
     },
     {
       "position": 13,
-      "team": "Sparta Rotterdam",
-      "played": 9,
+      "team": "SC Cambuur-Leeuwarden",
+      "played": 10,
       "wins": 2,
-      "draws": 3,
-      "points": 9
+      "draws": 4,
+      "points": 10
     },
     {
       "position": 14,
-      "team": "SC Cambuur-Leeuwarden",
+      "team": "Sparta Rotterdam",
       "played": 9,
       "wins": 2,
       "draws": 3,
@@ -257,10 +257,10 @@
     {
       "position": 15,
       "team": "PEC Zwolle",
-      "played": 9,
+      "played": 10,
       "wins": 2,
-      "draws": 1,
-      "points": 7
+      "draws": 2,
+      "points": 8
     },
     {
       "position": 16,
@@ -281,10 +281,10 @@
     {
       "position": 18,
       "team": "Willem II Tilburg",
-      "played": 9,
+      "played": 10,
       "wins": 0,
-      "draws": 2,
-      "points": 2
+      "draws": 3,
+      "points": 3
     }
   ],
   "fr12": [
@@ -349,5 +349,5 @@
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-over-steijn-en-hadj-moussa-geeft-aan-wat-voor-impact-het-heeft"
     }
   ],
-  "updated": "2026-10-24T13:21:43.460985+00:00"
+  "updated": "2026-10-24T16:51:51.186321+00:00"
 }
