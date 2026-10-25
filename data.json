@@ -145,26 +145,26 @@
     {
       "position": 1,
       "team": "Feyenoord Rotterdam",
-      "played": 9,
+      "played": 10,
       "wins": 7,
-      "draws": 2,
-      "points": 23
+      "draws": 3,
+      "points": 24
     },
     {
       "position": 2,
-      "team": "AZ",
-      "played": 9,
+      "team": "PSV",
+      "played": 10,
       "wins": 6,
       "draws": 2,
       "points": 20
     },
     {
       "position": 3,
-      "team": "PSV",
+      "team": "AZ",
       "played": 9,
       "wins": 6,
-      "draws": 1,
-      "points": 19
+      "draws": 2,
+      "points": 20
     },
     {
       "position": 4,
@@ -176,6 +176,14 @@
     },
     {
       "position": 5,
+      "team": "Fortuna Sittard",
+      "played": 10,
+      "wins": 5,
+      "draws": 3,
+      "points": 18
+    },
+    {
+      "position": 6,
       "team": "FC Twente '65",
       "played": 9,
       "wins": 5,
@@ -183,28 +191,20 @@
       "points": 17
     },
     {
-      "position": 6,
+      "position": 7,
+      "team": "FC Groningen",
+      "played": 10,
+      "wins": 5,
+      "draws": 2,
+      "points": 17
+    },
+    {
+      "position": 8,
       "team": "SC Heerenveen",
       "played": 10,
       "wins": 4,
       "draws": 3,
       "points": 15
-    },
-    {
-      "position": 7,
-      "team": "Fortuna Sittard",
-      "played": 9,
-      "wins": 4,
-      "draws": 3,
-      "points": 15
-    },
-    {
-      "position": 8,
-      "team": "FC Groningen",
-      "played": 9,
-      "wins": 4,
-      "draws": 2,
-      "points": 14
     },
     {
       "position": 9,
@@ -233,7 +233,7 @@
     {
       "position": 12,
       "team": "SBV Excelsior",
-      "played": 9,
+      "played": 10,
       "wins": 3,
       "draws": 2,
       "points": 11
@@ -241,7 +241,7 @@
     {
       "position": 13,
       "team": "NEC",
-      "played": 9,
+      "played": 10,
       "wins": 2,
       "draws": 4,
       "points": 10
@@ -289,65 +289,65 @@
   ],
   "fr12": [
     {
-      "title": "25 oktober 2026 MATCHDAY! Feyenoord verdedigt koppositie in kraker tegen PSV 00:00 821",
+      "title": "25 oktober 2026 Bosz over rol van Hadj Moussa: \"Hij blijft verdedigend weleens voorin\" 14:28 14",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/matchday-feyenoord-verdedigt-koppositie-in-kraker-tegen-psv"
+      "url": "https://www.fr12.nl/nieuws/bosz-over-rol-van-hadj-moussa-hij-blijft-verdedigend-weleens-voorin"
     },
     {
-      "title": "23 oktober 2026 Eenhoorn wil efficiëntere structuur: \"We hebben met tien entiteiten te maken\" 20:05 938",
+      "title": "25 oktober 2026 Van Bronckhorst: \"Daar zit misschien ook wel het verschil in deze wedstrijd\" 14:16 81",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/eenhoorn-wil-efficientere-structuur-we-hebben-met-tien-entiteiten-te-maken"
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-daar-zit-misschien-ook-wel-het-verschil-in-deze-wedstrijd"
     },
     {
-      "title": "23 oktober 2026 Bosz: \"Dat gevoel zal Feyenoord ook hebben na deze midweek\" 15:41 148",
+      "title": "Bosz over rol van Hadj Moussa: \"Hij blijft verdedigend weleens voorin\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/bosz-dat-gevoel-zal-feyenoord-ook-hebben-na-deze-midweek"
+      "url": "https://www.fr12.nl/nieuws/bosz-over-rol-van-hadj-moussa-hij-blijft-verdedigend-weleens-voorin"
+    },
+    {
+      "title": "Van Bronckhorst: \"Daar zit misschien ook wel het verschil in deze wedstrijd\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-daar-zit-misschien-ook-wel-het-verschil-in-deze-wedstrijd"
+    },
+    {
+      "title": "Dit is de opstelling van Feyenoord voor de uitwedstrijd tegen PSV",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/dit-is-de-opstelling-van-feyenoord-voor-de-uitwedstrijd-tegen-psv"
+    },
+    {
+      "title": "Complimenten voor St. Juste: \"Voor Feyenoord is hij een speler van grote waarde\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/complimenten-voor-st-juste-voor-feyenoord-is-hij-een-speler-van-grote-waarde"
+    },
+    {
+      "title": "Feyenoord jaagt in Eindhoven op einde aan sterke PSV-reeks",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/feyenoord-jaagt-in-eindhoven-op-einde-aan-sterke-psv-reeks"
+    },
+    {
+      "title": "Grote plannen rond De Kuip: station moet uitgroeien tot belangrijk OV-knooppunt",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/grote-plannen-rond-de-kuip-station-moet-uitgroeien-tot-belangrijk-ov-knooppunt"
+    },
+    {
+      "title": "Trainersstaf maakt goede indruk: \"Het is een mooie mix met Sipke en Gio\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/trainersstaf-maakt-goede-indruk-het-is-een-mooie-mix-met-sipke-en-gio"
     },
     {
       "title": "\"Ik zie hem nog steeds als een erg belangrijke speler voor dit Feyenoord\"",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/ik-zie-hem-nog-steeds-als-een-erg-belangrijke-speler-voor-dit-feyenoord"
-    },
-    {
-      "title": "''Gjivai is een heel leuke jongen, maar er zitten ook wat stekeltjes aan hem''",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/gjivai-is-een-heel-leuke-jongen-maar-er-zitten-ook-wat-stekeltjes-aan-hem"
-    },
-    {
-      "title": "MATCHDAY! Feyenoord verdedigt koppositie in kraker tegen PSV",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/matchday-feyenoord-verdedigt-koppositie-in-kraker-tegen-psv"
-    },
-    {
-      "title": "Data biedt Feyenoord hoop: ''PSV geeft gigantisch veel kansen weg''",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/data-biedt-feyenoord-hoop-psv-geeft-gigantisch-veel-kansen-weg"
-    },
-    {
-      "title": "WK voor clubs speelt mee bij PSV-Feyenoord: Rotterdammers kunnen aanhaken",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/wk-voor-clubs-speelt-mee-bij-psv-feyenoord-rotterdammers-kunnen-aanhaken"
-    },
-    {
-      "title": "Achahbar: ''Er beginnen nog altijd mensen over die wedstrijd''",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/achahbar-er-beginnen-nog-altijd-mensen-over-die-wedstrijd"
-    },
-    {
-      "title": "Van Bronckhorst: \"Vanuit die houding moet je in de omschakeling komen\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-vanuit-die-houding-moet-je-in-de-omschakeling-komen"
     }
   ],
-  "updated": "2026-10-25T09:41:19.002532+00:00"
+  "updated": "2026-10-25T13:57:07.916624+00:00"
 }
