@@ -152,6 +152,14 @@
     },
     {
       "position": 2,
+      "team": "AFC Ajax",
+      "played": 10,
+      "wins": 6,
+      "draws": 3,
+      "points": 21
+    },
+    {
+      "position": 3,
       "team": "PSV",
       "played": 10,
       "wins": 6,
@@ -159,20 +167,12 @@
       "points": 20
     },
     {
-      "position": 3,
+      "position": 4,
       "team": "AZ",
       "played": 9,
       "wins": 6,
       "draws": 2,
       "points": 20
-    },
-    {
-      "position": 4,
-      "team": "AFC Ajax",
-      "played": 9,
-      "wins": 5,
-      "draws": 3,
-      "points": 18
     },
     {
       "position": 5,
@@ -192,15 +192,15 @@
     },
     {
       "position": 7,
-      "team": "FC Groningen",
+      "team": "SC Heerenveen",
       "played": 10,
-      "wins": 5,
-      "draws": 2,
-      "points": 17
+      "wins": 4,
+      "draws": 3,
+      "points": 15
     },
     {
       "position": 8,
-      "team": "SC Heerenveen",
+      "team": "FC Groningen",
       "played": 10,
       "wins": 4,
       "draws": 3,
@@ -232,6 +232,14 @@
     },
     {
       "position": 12,
+      "team": "NEC",
+      "played": 10,
+      "wins": 2,
+      "draws": 5,
+      "points": 11
+    },
+    {
+      "position": 13,
       "team": "SBV Excelsior",
       "played": 10,
       "wins": 3,
@@ -239,17 +247,9 @@
       "points": 11
     },
     {
-      "position": 13,
-      "team": "NEC",
-      "played": 10,
-      "wins": 2,
-      "draws": 4,
-      "points": 10
-    },
-    {
       "position": 14,
       "team": "Sparta Rotterdam",
-      "played": 9,
+      "played": 10,
       "wins": 2,
       "draws": 3,
       "points": 9
@@ -289,65 +289,65 @@
   ],
   "fr12": [
     {
-      "title": "25 oktober 2026 Bosz over rol van Hadj Moussa: \"Hij blijft verdedigend weleens voorin\" 14:28 14",
+      "title": "25 oktober 2026 Feyenoord herstelt zich na zwakke eerste helft en pakt punt tegen PSV 16:20 973",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/bosz-over-rol-van-hadj-moussa-hij-blijft-verdedigend-weleens-voorin"
+      "url": "https://www.fr12.nl/nieuws/feyenoord-herstelt-zich-na-zwakke-eerste-helft-en-pakt-punt-tegen-psv"
     },
     {
-      "title": "25 oktober 2026 Van Bronckhorst: \"Daar zit misschien ook wel het verschil in deze wedstrijd\" 14:16 81",
+      "title": "25 oktober 2026 De beelden: St. Juste en Geertruida krijgen ruzie na afloop van PSV - Feyenoord 18:06 226",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-daar-zit-misschien-ook-wel-het-verschil-in-deze-wedstrijd"
+      "url": "https://www.fr12.nl/nieuws/de-beelden-st-juste-en-geertruida-krijgen-ruzie-na-afloop-van-psv-feyenoord"
     },
     {
-      "title": "Bosz over rol van Hadj Moussa: \"Hij blijft verdedigend weleens voorin\"",
+      "title": "25 oktober 2026 Hadj Moussa lacht na afloop: \"Misschien word ik daarom nooit gewisseld\" 17:07 137",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/bosz-over-rol-van-hadj-moussa-hij-blijft-verdedigend-weleens-voorin"
+      "url": "https://www.fr12.nl/nieuws/hadj-moussa-lacht-na-afloop-misschien-word-ik-daarom-nooit-gewisseld"
     },
     {
-      "title": "Van Bronckhorst: \"Daar zit misschien ook wel het verschil in deze wedstrijd\"",
+      "title": "Zechiël over 'harde woorden' in kleedkamer: \"Iedereen accepteert dat gelukkig\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-daar-zit-misschien-ook-wel-het-verschil-in-deze-wedstrijd"
+      "url": "https://www.fr12.nl/nieuws/zechiel-over-harde-woorden-in-kleedkamer-iedereen-accepteert-dat-gelukkig"
     },
     {
-      "title": "Dit is de opstelling van Feyenoord voor de uitwedstrijd tegen PSV",
+      "title": "Van Bronckhorst: \"Niet de bedoeling dat we ballen van elkaars voet gaan halen\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/dit-is-de-opstelling-van-feyenoord-voor-de-uitwedstrijd-tegen-psv"
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-niet-de-bedoeling-dat-we-ballen-van-elkaars-voet-gaan-halen"
     },
     {
-      "title": "Complimenten voor St. Juste: \"Voor Feyenoord is hij een speler van grote waarde\"",
+      "title": "De beelden: St. Juste en Geertruida krijgen ruzie na afloop van PSV - Feyenoord",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/complimenten-voor-st-juste-voor-feyenoord-is-hij-een-speler-van-grote-waarde"
+      "url": "https://www.fr12.nl/nieuws/de-beelden-st-juste-en-geertruida-krijgen-ruzie-na-afloop-van-psv-feyenoord"
     },
     {
-      "title": "Feyenoord jaagt in Eindhoven op einde aan sterke PSV-reeks",
+      "title": "St. Juste had last van scheenbeen: \"Daar loopt hij wel al een aantal weken mee\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-jaagt-in-eindhoven-op-einde-aan-sterke-psv-reeks"
+      "url": "https://www.fr12.nl/nieuws/st-juste-had-last-van-scheenbeen-daar-loopt-hij-wel-al-een-aantal-weken-mee"
     },
     {
-      "title": "Grote plannen rond De Kuip: station moet uitgroeien tot belangrijk OV-knooppunt",
+      "title": "Read over betere tweede helft: \"Zo gaat dat als wij ons eigen ding doen\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/grote-plannen-rond-de-kuip-station-moet-uitgroeien-tot-belangrijk-ov-knooppunt"
+      "url": "https://www.fr12.nl/nieuws/read-over-betere-tweede-helft-zo-gaat-dat-als-wij-ons-eigen-ding-doen"
     },
     {
-      "title": "Trainersstaf maakt goede indruk: \"Het is een mooie mix met Sipke en Gio\"",
+      "title": "Bosz baalt van resultaat tegen Feyenoord: \"We hebben onszelf te kort gedaan\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/trainersstaf-maakt-goede-indruk-het-is-een-mooie-mix-met-sipke-en-gio"
+      "url": "https://www.fr12.nl/nieuws/bosz-baalt-van-resultaat-tegen-feyenoord-we-hebben-onszelf-te-kort-gedaan"
     },
     {
-      "title": "\"Ik zie hem nog steeds als een erg belangrijke speler voor dit Feyenoord\"",
+      "title": "Hadj Moussa lacht na afloop: \"Misschien word ik daarom nooit gewisseld\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/ik-zie-hem-nog-steeds-als-een-erg-belangrijke-speler-voor-dit-feyenoord"
+      "url": "https://www.fr12.nl/nieuws/hadj-moussa-lacht-na-afloop-misschien-word-ik-daarom-nooit-gewisseld"
     }
   ],
-  "updated": "2026-10-25T13:57:07.916624+00:00"
+  "updated": "2026-10-25T17:34:57.329139+00:00"
 }
