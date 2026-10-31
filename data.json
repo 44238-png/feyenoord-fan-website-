@@ -153,18 +153,18 @@
     {
       "position": 2,
       "team": "AFC Ajax",
-      "played": 10,
-      "wins": 6,
+      "played": 11,
+      "wins": 7,
       "draws": 3,
-      "points": 21
+      "points": 24
     },
     {
       "position": 3,
       "team": "PSV",
       "played": 11,
-      "wins": 6,
-      "draws": 3,
-      "points": 21
+      "wins": 7,
+      "draws": 2,
+      "points": 23
     },
     {
       "position": 4,
@@ -177,7 +177,7 @@
     {
       "position": 5,
       "team": "AZ",
-      "played": 10,
+      "played": 11,
       "wins": 6,
       "draws": 2,
       "points": 20
@@ -194,9 +194,9 @@
       "position": 7,
       "team": "SC Heerenveen",
       "played": 11,
-      "wins": 4,
-      "draws": 4,
-      "points": 16
+      "wins": 5,
+      "draws": 3,
+      "points": 18
     },
     {
       "position": 8,
@@ -208,23 +208,23 @@
     },
     {
       "position": 9,
+      "team": "SC Cambuur-Leeuwarden",
+      "played": 11,
+      "wins": 4,
+      "draws": 3,
+      "points": 15
+    },
+    {
+      "position": 10,
       "team": "Go Ahead Eagles",
-      "played": 10,
+      "played": 11,
       "wins": 3,
       "draws": 5,
       "points": 14
     },
     {
-      "position": 10,
-      "team": "NEC",
-      "played": 11,
-      "wins": 2,
-      "draws": 6,
-      "points": 12
-    },
-    {
       "position": 11,
-      "team": "SC Cambuur-Leeuwarden",
+      "team": "FC Utrecht",
       "played": 10,
       "wins": 3,
       "draws": 3,
@@ -232,11 +232,11 @@
     },
     {
       "position": 12,
-      "team": "FC Utrecht",
-      "played": 10,
-      "wins": 3,
-      "draws": 3,
-      "points": 12
+      "team": "NEC",
+      "played": 11,
+      "wins": 2,
+      "draws": 5,
+      "points": 11
     },
     {
       "position": 13,
@@ -283,22 +283,58 @@
       "team": "Willem II Tilburg",
       "played": 11,
       "wins": 0,
-      "draws": 3,
-      "points": 3
+      "draws": 2,
+      "points": 2
     }
   ],
   "fr12": [
     {
-      "title": "31 oktober 2026 Feyenoord geeft overwinning laat uit handen tegen Fortuna Sittard 18:28 768",
+      "title": "31 oktober 2026 Feyenoord geeft overwinning laat uit handen tegen Fortuna Sittard 18:28 917",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/feyenoord-geeft-overwinning-laat-uit-handen-tegen-fortuna-sittard"
     },
     {
-      "title": "31 oktober 2026 Nieuwe tegenvaller voor Moder: \"Mentaal wel een tikje\" 16:06 112",
+      "title": "31 oktober 2026 Valente kritisch op afronding: \"Ik wil dus niet zeggen dat we slecht waren\" 18:39 370",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/nieuwe-tegenvaller-voor-moder-mentaal-wel-een-tikje"
+      "url": "https://www.fr12.nl/nieuws/valente-kritisch-op-afronding-ik-wil-dus-niet-zeggen-dat-we-slecht-waren"
+    },
+    {
+      "title": "Van Bronckhorst legt passeren van Steijn uit: \"Die wissel was niet meer nodig\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-legt-passeren-van-steijn-uit-die-wissel-was-niet-meer-nodig"
+    },
+    {
+      "title": "Buijs blij met Feyenoord-huurling: \"Daar gaan we nog mooie dingen van zien\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/buijs-blij-met-feyenoord-huurling-daar-gaan-we-nog-mooie-dingen-van-zien"
+    },
+    {
+      "title": "Been kritisch op Ernst na gelijkspel: ''Heeft mij nog niet kunnen overtuigen''",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/been-kritisch-op-ernst-na-gelijkspel-heeft-mij-nog-niet-kunnen-overtuigen"
+    },
+    {
+      "title": "'T Zand blij met zijn treffer: \"Ik was er extra op gebrand om te scoren\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/t-zand-blij-met-zijn-treffer-ik-was-er-extra-op-gebrand-om-te-scoren"
+    },
+    {
+      "title": "Van Bronckhorst: \"Daarvan hebben we er één gescoord, dus dat is te weinig\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-daarvan-hebben-we-er-een-gescoord-dus-dat-is-te-weinig"
+    },
+    {
+      "title": "Ernst: \"Uiteindelijk moest één doelpunt ook genoeg zijn voor ons\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/ernst-uiteindelijk-moest-een-doelpunt-ook-genoeg-zijn-voor-ons"
     },
     {
       "title": "Read: \"Ik wil het geen herfstdipje noemen, maar we weten dat het beter moet\"",
@@ -311,43 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/valente-kritisch-op-afronding-ik-wil-dus-niet-zeggen-dat-we-slecht-waren"
-    },
-    {
-      "title": "Beoordeel de Feyenoorders na nieuw puntenverlies in De Kuip",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/beoordeel-de-feyenoorders-na-nieuw-puntenverlies-in-de-kuip"
-    },
-    {
-      "title": "Feyenoord geeft overwinning laat uit handen tegen Fortuna Sittard",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-geeft-overwinning-laat-uit-handen-tegen-fortuna-sittard"
-    },
-    {
-      "title": "Valente blinkt uit met steekpass: \"Dit was werkelijk ongelofelijk mooi\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/valente-blinkt-uit-met-steekpass-dit-was-werkelijk-ongelofelijk-mooi"
-    },
-    {
-      "title": "Van Bronckhorst over balans in het elftal tegen Fortuna: \"Dat moeten zij wel bewaken\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-over-balans-in-het-elftal-tegen-fortuna-dat-moeten-zij-wel-bewaken"
-    },
-    {
-      "title": "Nieuwe tegenvaller voor Moder: \"Mentaal wel een tikje\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/nieuwe-tegenvaller-voor-moder-mentaal-wel-een-tikje"
-    },
-    {
-      "title": "\"St. Juste heeft wel een bepaalde snelheid en dat kon vandaag relevant zijn\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/st-juste-heeft-wel-een-bepaalde-snelheid-en-dat-kon-vandaag-relevant-zijn"
     }
   ],
-  "updated": "2026-10-31T17:56:38.894926+00:00"
+  "updated": "2026-10-31T21:23:21.208950+00:00"
 }
