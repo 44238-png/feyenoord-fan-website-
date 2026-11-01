@@ -170,9 +170,9 @@
       "position": 4,
       "team": "FC Twente '65",
       "played": 11,
-      "wins": 6,
-      "draws": 3,
-      "points": 21
+      "wins": 7,
+      "draws": 2,
+      "points": 23
     },
     {
       "position": 5,
@@ -201,7 +201,7 @@
     {
       "position": 8,
       "team": "FC Groningen",
-      "played": 10,
+      "played": 11,
       "wins": 4,
       "draws": 3,
       "points": 15
@@ -224,7 +224,7 @@
     },
     {
       "position": 11,
-      "team": "SBV Excelsior",
+      "team": "Sparta Rotterdam",
       "played": 11,
       "wins": 3,
       "draws": 3,
@@ -256,11 +256,11 @@
     },
     {
       "position": 15,
-      "team": "Sparta Rotterdam",
-      "played": 10,
-      "wins": 2,
-      "draws": 3,
-      "points": 9
+      "team": "SBV Excelsior",
+      "played": 11,
+      "wins": 3,
+      "draws": 2,
+      "points": 11
     },
     {
       "position": 16,
@@ -289,16 +289,28 @@
   ],
   "fr12": [
     {
-      "title": "31 oktober 2026 Feyenoord geeft overwinning laat uit handen tegen Fortuna Sittard 18:28 1102",
+      "title": "01 november 2026 Valente baalt van gemiste kansen: ''Op de training gingen ze er wel in'' 06:55 183",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-geeft-overwinning-laat-uit-handen-tegen-fortuna-sittard"
+      "url": "https://www.fr12.nl/nieuws/valente-baalt-van-gemiste-kansen-op-de-training-gingen-ze-er-wel-in"
     },
     {
-      "title": "31 oktober 2026 Valente kritisch op afronding: \"Ik wil dus niet zeggen dat we slecht waren\" 18:39 416",
+      "title": "01 november 2026 Zware maand op het programma voor Feyenoord met Inter, Porto en Klassieker 07:08 356",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/valente-kritisch-op-afronding-ik-wil-dus-niet-zeggen-dat-we-slecht-waren"
+      "url": "https://www.fr12.nl/nieuws/zware-maand-op-het-programma-voor-feyenoord-met-inter-porto-en-klassieker"
+    },
+    {
+      "title": "31 oktober 2026 Van Bronckhorst: \"Daarvan hebben we er één gescoord, dus dat is te weinig\" 19:16 101",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-daarvan-hebben-we-er-een-gescoord-dus-dat-is-te-weinig"
+    },
+    {
+      "title": "Eredivisie: Feyenoord verspeelt opnieuw punten en ziet Ajax en PSV dichterbij komen",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/eredivisie-feyenoord-verspeelt-opnieuw-punten-en-ziet-ajax-en-psv-dichterbij-komen"
     },
     {
       "title": "Buijs gaat in op titelrace: ''Dat kan weleens de beslissende factor zijn''",
@@ -335,19 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/zware-maand-op-het-programma-voor-feyenoord-met-inter-porto-en-klassieker"
-    },
-    {
-      "title": "Valente baalt van gemiste kansen: ''Op de training gingen ze er wel in''",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/valente-baalt-van-gemiste-kansen-op-de-training-gingen-ze-er-wel-in"
-    },
-    {
-      "title": "Van Bronckhorst legt passeren van Steijn uit: \"Die wissel was niet meer nodig\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-legt-passeren-van-steijn-uit-die-wissel-was-niet-meer-nodig"
     }
   ],
-  "updated": "2026-11-01T13:50:05.956661+00:00"
+  "updated": "2026-11-01T18:50:05.295036+00:00"
 }
