@@ -169,10 +169,10 @@
     {
       "position": 4,
       "team": "FC Twente '65",
-      "played": 10,
+      "played": 11,
       "wins": 6,
-      "draws": 2,
-      "points": 20
+      "draws": 3,
+      "points": 21
     },
     {
       "position": 5,
@@ -224,14 +224,22 @@
     },
     {
       "position": 11,
-      "team": "FC Utrecht",
-      "played": 10,
+      "team": "SBV Excelsior",
+      "played": 11,
       "wins": 3,
       "draws": 3,
       "points": 12
     },
     {
       "position": 12,
+      "team": "FC Utrecht",
+      "played": 11,
+      "wins": 3,
+      "draws": 3,
+      "points": 12
+    },
+    {
+      "position": 13,
       "team": "NEC",
       "played": 11,
       "wins": 2,
@@ -239,15 +247,15 @@
       "points": 11
     },
     {
-      "position": 13,
-      "team": "SBV Excelsior",
-      "played": 10,
+      "position": 14,
+      "team": "PEC Zwolle",
+      "played": 11,
       "wins": 3,
       "draws": 2,
       "points": 11
     },
     {
-      "position": 14,
+      "position": 15,
       "team": "Sparta Rotterdam",
       "played": 10,
       "wins": 2,
@@ -255,25 +263,17 @@
       "points": 9
     },
     {
-      "position": 15,
-      "team": "PEC Zwolle",
-      "played": 10,
-      "wins": 2,
-      "draws": 2,
-      "points": 8
-    },
-    {
       "position": 16,
       "team": "Telstar 1963",
-      "played": 10,
-      "wins": 1,
+      "played": 11,
+      "wins": 2,
       "draws": 3,
-      "points": 6
+      "points": 9
     },
     {
       "position": 17,
       "team": "ADO Den Haag",
-      "played": 10,
+      "played": 11,
       "wins": 1,
       "draws": 3,
       "points": 6
@@ -289,16 +289,46 @@
   ],
   "fr12": [
     {
-      "title": "31 oktober 2026 Feyenoord geeft overwinning laat uit handen tegen Fortuna Sittard 18:28 1060",
+      "title": "31 oktober 2026 Feyenoord geeft overwinning laat uit handen tegen Fortuna Sittard 18:28 1102",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/feyenoord-geeft-overwinning-laat-uit-handen-tegen-fortuna-sittard"
     },
     {
-      "title": "31 oktober 2026 Valente kritisch op afronding: \"Ik wil dus niet zeggen dat we slecht waren\" 18:39 406",
+      "title": "31 oktober 2026 Valente kritisch op afronding: \"Ik wil dus niet zeggen dat we slecht waren\" 18:39 416",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/valente-kritisch-op-afronding-ik-wil-dus-niet-zeggen-dat-we-slecht-waren"
+    },
+    {
+      "title": "Buijs gaat in op titelrace: ''Dat kan weleens de beslissende factor zijn''",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/buijs-gaat-in-op-titelrace-dat-kan-weleens-de-beslissende-factor-zijn"
+    },
+    {
+      "title": "Ten Hag over 'geweldige club' Feyenoord: ''Heel lang telefoongesprek gehad''",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/ten-hag-over-geweldige-club-feyenoord-heel-lang-telefoongesprek-gehad"
+    },
+    {
+      "title": "Feyenoord overtuigt niet in De Kuip: ''Ik miste de sprankeling''",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/feyenoord-overtuigt-niet-in-de-kuip-ik-miste-de-sprankeling"
+    },
+    {
+      "title": "Situatie Moder en Steijn roept vragen op: ''Het begint pijnlijk te worden''",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/situatie-moder-en-steijn-roept-vragen-op-het-begint-pijnlijk-te-worden"
+    },
+    {
+      "title": "Feyenoord koploper met historisch laag puntenaantal na elf wedstrijden",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/feyenoord-koploper-met-historisch-laag-puntenaantal-na-elf-wedstrijden"
     },
     {
       "title": "Zware maand op het programma voor Feyenoord met Inter, Porto en Klassieker",
@@ -317,37 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-legt-passeren-van-steijn-uit-die-wissel-was-niet-meer-nodig"
-    },
-    {
-      "title": "Buijs blij met Feyenoord-huurling: \"Daar gaan we nog mooie dingen van zien\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/buijs-blij-met-feyenoord-huurling-daar-gaan-we-nog-mooie-dingen-van-zien"
-    },
-    {
-      "title": "Been kritisch op Ernst na gelijkspel: ''Heeft mij nog niet kunnen overtuigen''",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/been-kritisch-op-ernst-na-gelijkspel-heeft-mij-nog-niet-kunnen-overtuigen"
-    },
-    {
-      "title": "'T Zand blij met zijn treffer: \"Ik was er extra op gebrand om te scoren\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/t-zand-blij-met-zijn-treffer-ik-was-er-extra-op-gebrand-om-te-scoren"
-    },
-    {
-      "title": "Van Bronckhorst: \"Daarvan hebben we er één gescoord, dus dat is te weinig\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-daarvan-hebben-we-er-een-gescoord-dus-dat-is-te-weinig"
-    },
-    {
-      "title": "Ernst: \"Uiteindelijk moest één doelpunt ook genoeg zijn voor ons\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/ernst-uiteindelijk-moest-een-doelpunt-ook-genoeg-zijn-voor-ons"
     }
   ],
-  "updated": "2026-11-01T06:42:01.001340+00:00"
+  "updated": "2026-11-01T13:50:05.956661+00:00"
 }
