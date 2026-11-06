@@ -232,6 +232,14 @@
     },
     {
       "position": 12,
+      "team": "PEC Zwolle",
+      "played": 12,
+      "wins": 3,
+      "draws": 3,
+      "points": 12
+    },
+    {
+      "position": 13,
       "team": "FC Utrecht",
       "played": 11,
       "wins": 3,
@@ -239,19 +247,11 @@
       "points": 12
     },
     {
-      "position": 13,
+      "position": 14,
       "team": "NEC",
       "played": 11,
       "wins": 2,
       "draws": 5,
-      "points": 11
-    },
-    {
-      "position": 14,
-      "team": "PEC Zwolle",
-      "played": 11,
-      "wins": 3,
-      "draws": 2,
       "points": 11
     },
     {
@@ -281,13 +281,31 @@
     {
       "position": 18,
       "team": "Willem II Tilburg",
-      "played": 11,
+      "played": 12,
       "wins": 0,
-      "draws": 2,
-      "points": 2
+      "draws": 3,
+      "points": 3
     }
   ],
   "fr12": [
+    {
+      "title": "Tegenvaller voor Wessels: Feyenoord-talent ondergaat operatie",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/tegenvaller-voor-wessels-feyenoord-talent-ondergaat-operatie"
+    },
+    {
+      "title": "\"Als je mee wil doen om het kampioenschap, moet je gewoon winnen van Heerenveen\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/als-je-mee-wil-doen-om-het-kampioenschap-moet-je-gewoon-winnen-van-heerenveen"
+    },
+    {
+      "title": "Vertrouwen in Heerenveen: \"Ook tegen Feyenoord gaan we uit van eigen kracht\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/vertrouwen-in-heerenveen-ook-tegen-feyenoord-gaan-we-uit-van-eigen-kracht"
+    },
     {
       "title": "Vermoedelijke opstelling: Feyenoord staat er fysiek nog goed voor",
       "summary": "",
@@ -329,25 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-geeft-vrijdagmiddag-laatste-update-richting-heerenveen"
-    },
-    {
-      "title": "Feyenoord maakt historische ruimtes in De Kuip toegankelijk voor publiek",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-maakt-historische-ruimtes-in-de-kuip-toegankelijk-voor-publiek"
-    },
-    {
-      "title": "Feyenoord brengt volledig wit shirt uit na reacties van supporters",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-brengt-volledig-wit-shirt-uit-na-reacties-van-supporters"
-    },
-    {
-      "title": "Feyenoord en RBC zetten samenwerking voort: nieuw contract tot 2031",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-en-rbc-zetten-samenwerking-voort-nieuw-contract-tot-2031"
     }
   ],
-  "updated": "2026-11-06T15:17:47.041439+00:00"
+  "updated": "2026-11-06T20:59:53.579928+00:00"
 }
