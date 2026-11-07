@@ -185,10 +185,10 @@
     {
       "position": 6,
       "team": "Fortuna Sittard",
-      "played": 11,
+      "played": 12,
       "wins": 5,
-      "draws": 4,
-      "points": 19
+      "draws": 5,
+      "points": 20
     },
     {
       "position": 7,
@@ -225,7 +225,7 @@
     {
       "position": 11,
       "team": "Sparta Rotterdam",
-      "played": 11,
+      "played": 12,
       "wins": 3,
       "draws": 3,
       "points": 12
@@ -265,18 +265,18 @@
     {
       "position": 16,
       "team": "Telstar 1963",
-      "played": 11,
+      "played": 12,
       "wins": 2,
-      "draws": 3,
-      "points": 9
+      "draws": 4,
+      "points": 10
     },
     {
       "position": 17,
       "team": "ADO Den Haag",
-      "played": 11,
-      "wins": 1,
+      "played": 12,
+      "wins": 2,
       "draws": 3,
-      "points": 6
+      "points": 9
     },
     {
       "position": 18,
@@ -289,7 +289,7 @@
   ],
   "fr12": [
     {
-      "title": "06 november 2026 Feyenoord trekt lessen uit duel met Inter: \"Daar kunnen wij veel van leren\" 14:49 124",
+      "title": "06 november 2026 Feyenoord trekt lessen uit duel met Inter: \"Daar kunnen wij veel van leren\" 14:49 135",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/feyenoord-trekt-lessen-uit-duel-met-inter-daar-kunnen-wij-veel-van-leren"
@@ -349,5 +349,5 @@
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-beschermt-ernst-wij-geven-spelers-de-mogelijkheid-om-te-schieten"
     }
   ],
-  "updated": "2026-11-07T13:54:39.324536+00:00"
+  "updated": "2026-11-07T18:36:50.005334+00:00"
 }
