@@ -200,6 +200,14 @@
     },
     {
       "position": 8,
+      "team": "Go Ahead Eagles",
+      "played": 12,
+      "wins": 4,
+      "draws": 5,
+      "points": 17
+    },
+    {
+      "position": 9,
       "team": "FC Groningen",
       "played": 11,
       "wins": 4,
@@ -207,20 +215,12 @@
       "points": 15
     },
     {
-      "position": 9,
+      "position": 10,
       "team": "SC Cambuur-Leeuwarden",
       "played": 11,
       "wins": 4,
       "draws": 3,
       "points": 15
-    },
-    {
-      "position": 10,
-      "team": "Go Ahead Eagles",
-      "played": 11,
-      "wins": 3,
-      "draws": 5,
-      "points": 14
     },
     {
       "position": 11,
@@ -257,7 +257,7 @@
     {
       "position": 15,
       "team": "SBV Excelsior",
-      "played": 11,
+      "played": 12,
       "wins": 3,
       "draws": 2,
       "points": 11
@@ -289,7 +289,7 @@
   ],
   "fr12": [
     {
-      "title": "06 november 2026 Feyenoord trekt lessen uit duel met Inter: \"Daar kunnen wij veel van leren\" 14:49 135",
+      "title": "06 november 2026 Feyenoord trekt lessen uit duel met Inter: \"Daar kunnen wij veel van leren\" 14:49 139",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/feyenoord-trekt-lessen-uit-duel-met-inter-daar-kunnen-wij-veel-van-leren"
@@ -349,5 +349,5 @@
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-beschermt-ernst-wij-geven-spelers-de-mogelijkheid-om-te-schieten"
     }
   ],
-  "updated": "2026-11-07T18:36:50.005334+00:00"
+  "updated": "2026-11-07T22:20:25.952158+00:00"
 }
