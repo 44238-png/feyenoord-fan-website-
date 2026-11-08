@@ -144,11 +144,11 @@
   "standings": [
     {
       "position": 1,
-      "team": "AFC Ajax",
+      "team": "PSV",
       "played": 12,
       "wins": 8,
-      "draws": 3,
-      "points": 27
+      "draws": 2,
+      "points": 26
     },
     {
       "position": 2,
@@ -160,35 +160,35 @@
     },
     {
       "position": 3,
-      "team": "PSV",
-      "played": 11,
+      "team": "AFC Ajax",
+      "played": 12,
       "wins": 7,
-      "draws": 2,
-      "points": 23
+      "draws": 4,
+      "points": 25
     },
     {
       "position": 4,
       "team": "FC Twente '65",
       "played": 12,
       "wins": 7,
+      "draws": 3,
+      "points": 24
+    },
+    {
+      "position": 5,
+      "team": "AZ",
+      "played": 12,
+      "wins": 7,
       "draws": 2,
       "points": 23
     },
     {
-      "position": 5,
+      "position": 6,
       "team": "SC Heerenveen",
       "played": 12,
       "wins": 6,
       "draws": 3,
       "points": 21
-    },
-    {
-      "position": 6,
-      "team": "AZ",
-      "played": 11,
-      "wins": 6,
-      "draws": 2,
-      "points": 20
     },
     {
       "position": 7,
@@ -209,7 +209,7 @@
     {
       "position": 9,
       "team": "FC Groningen",
-      "played": 11,
+      "played": 12,
       "wins": 4,
       "draws": 3,
       "points": 15
@@ -217,13 +217,21 @@
     {
       "position": 10,
       "team": "SC Cambuur-Leeuwarden",
-      "played": 11,
+      "played": 12,
       "wins": 4,
       "draws": 3,
       "points": 15
     },
     {
       "position": 11,
+      "team": "NEC",
+      "played": 12,
+      "wins": 3,
+      "draws": 5,
+      "points": 14
+    },
+    {
+      "position": 12,
       "team": "Sparta Rotterdam",
       "played": 12,
       "wins": 3,
@@ -231,7 +239,7 @@
       "points": 12
     },
     {
-      "position": 12,
+      "position": 13,
       "team": "PEC Zwolle",
       "played": 12,
       "wins": 3,
@@ -239,20 +247,12 @@
       "points": 12
     },
     {
-      "position": 13,
+      "position": 14,
       "team": "FC Utrecht",
-      "played": 11,
+      "played": 12,
       "wins": 3,
       "draws": 3,
       "points": 12
-    },
-    {
-      "position": 14,
-      "team": "NEC",
-      "played": 11,
-      "wins": 2,
-      "draws": 5,
-      "points": 11
     },
     {
       "position": 15,
@@ -289,22 +289,28 @@
   ],
   "fr12": [
     {
-      "title": "08 november 2026 Feyenoord geeft voorsprong weg en verliest spektakelstuk tegen Heerenveen 14:12 1158",
+      "title": "08 november 2026 Van Bronckhorst trekt conclusie: \"Vandaag hebben wij niet de juiste keuzes gemaakt\" 14:57 240",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-geeft-voorsprong-weg-en-verliest-spektakelstuk-tegen-heerenveen"
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-trekt-conclusie-vandaag-hebben-wij-niet-de-juiste-keuzes-gemaakt"
     },
     {
-      "title": "08 november 2026 Afgelopen | sc Heerenveen - Feyenoord (5-3) 12:15 10605",
+      "title": "08 november 2026 Read begrijpt kritiek van supporters: \"Er moet wel wat veranderen\" 14:23 775",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/read-begrijpt-kritiek-van-supporters-er-moet-wel-wat-veranderen"
+    },
+    {
+      "title": "08 november 2026 Afgelopen | sc Heerenveen - Feyenoord (5-3) 12:15 10601",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/live-1215-sc-heerenveen-feyenoord-7112026"
     },
     {
-      "title": "08 november 2026 Van Bronckhorst: \"Hij is nog steeds een wapen voor ons\" 11:59 116",
+      "title": "\"Tijdens de hele wedstrijd zag je spelers gefrustreerd met de armen omhoog staan\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-hij-is-nog-steeds-een-wapen-voor-ons"
+      "url": "https://www.fr12.nl/nieuws/tijdens-de-hele-wedstrijd-zag-je-spelers-gefrustreerd-met-de-armen-omhoog-staan"
     },
     {
       "title": "Van Bronckhorst: \"Ik denk dat het meer aan de instelling ligt\"",
@@ -341,13 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/makkelie-blijft-achter-strafschop-staan-dit-is-absoluut-geen-steunarm"
-    },
-    {
-      "title": "Read begrijpt kritiek van supporters: \"Er moet wel wat veranderen\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/read-begrijpt-kritiek-van-supporters-er-moet-wel-wat-veranderen"
     }
   ],
-  "updated": "2026-11-08T15:16:33.310521+00:00"
+  "updated": "2026-11-08T19:54:28.915139+00:00"
 }
