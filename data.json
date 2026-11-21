@@ -145,10 +145,10 @@
     {
       "position": 1,
       "team": "PSV",
-      "played": 12,
-      "wins": 8,
+      "played": 13,
+      "wins": 9,
       "draws": 2,
-      "points": 26
+      "points": 29
     },
     {
       "position": 2,
@@ -225,7 +225,7 @@
     {
       "position": 11,
       "team": "NEC",
-      "played": 12,
+      "played": 13,
       "wins": 3,
       "draws": 5,
       "points": 14
@@ -289,22 +289,34 @@
   ],
   "fr12": [
     {
-      "title": "21 november 2026 MATCHDAY! Feyenoord hervat competitie met stadsderby tegen Excelsior 00:00 154",
+      "title": "21 november 2026 Valente steunt Ernst: \"Dit is voor hem ook niet leuk, toch?\" 09:10 244",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/matchday-feyenoord-hervat-competitie-met-stadsderby-tegen-excelsior"
+      "url": "https://www.fr12.nl/nieuws/valente-steunt-ernst-dit-is-voor-hem-ook-niet-leuk-toch"
     },
     {
-      "title": "20 november 2026 St. Juste voorlopig uitgeschakeld: Feyenoord hoopt op rentree voor winterstop 14:31 175",
+      "title": "\"Als ik sommige beelden terugzie, denk ik echt: hoe kan ik daar nu lopen?\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/st-juste-voorlopig-uitgeschakeld-feyenoord-hoopt-op-rentree-voor-winterstop"
+      "url": "https://www.fr12.nl/nieuws/als-ik-sommige-beelden-terugzie-denk-ik-echt-hoe-kan-ik-daar-nu-lopen"
     },
     {
-      "title": "19 november 2026 Feyenoord-huurlingen: zo verlopen de eerste maanden buiten De Kuip 21:38 545",
+      "title": "Feyenoord-tegenstander Porto ontsnapt tegen derdeklasser na bizarre eigen goal",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-huurlingen-zo-verlopen-de-eerste-maanden-buiten-de-kuip"
+      "url": "https://www.fr12.nl/nieuws/feyenoord-tegenstander-porto-ontsnapt-tegen-derdeklasser-na-bizarre-eigen-goal"
+    },
+    {
+      "title": "Feyenoord treft tegenstander met problemen: \"We moeten terug naar de basis\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/feyenoord-treft-tegenstander-met-problemen-we-moeten-terug-naar-de-basis"
+    },
+    {
+      "title": "Valente steunt Ernst: \"Dit is voor hem ook niet leuk, toch?\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/valente-steunt-ernst-dit-is-voor-hem-ook-niet-leuk-toch"
     },
     {
       "title": "\"Ook de manier waarop supporters in Nederland worden behandeld, moet veranderen\"",
@@ -335,19 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-soms-sta-ik-ook-te-kijken-van-keuzes-die-worden-gemaakt"
-    },
-    {
-      "title": "Schaken als vervanger van Hadj Moussa? \"Zeker iemand die er klaar voor is\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/schaken-als-vervanger-van-hadj-moussa-zeker-iemand-die-er-klaar-voor-is"
-    },
-    {
-      "title": "Van Bronckhorst: \"Als de resultaten er niet zijn, kost het meer energie\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-als-de-resultaten-er-niet-zijn-kost-het-meer-energie"
     }
   ],
-  "updated": "2026-11-21T08:09:58.077369+00:00"
+  "updated": "2026-11-21T16:11:28.682011+00:00"
 }
