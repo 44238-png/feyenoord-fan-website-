@@ -152,6 +152,30 @@
     },
     {
       "position": 2,
+      "team": "AFC Ajax",
+      "played": 13,
+      "wins": 8,
+      "draws": 4,
+      "points": 28
+    },
+    {
+      "position": 3,
+      "team": "FC Twente '65",
+      "played": 13,
+      "wins": 8,
+      "draws": 3,
+      "points": 27
+    },
+    {
+      "position": 4,
+      "team": "AZ",
+      "played": 13,
+      "wins": 8,
+      "draws": 2,
+      "points": 26
+    },
+    {
+      "position": 5,
       "team": "Feyenoord Rotterdam",
       "played": 13,
       "wins": 7,
@@ -159,23 +183,7 @@
       "points": 25
     },
     {
-      "position": 3,
-      "team": "AFC Ajax",
-      "played": 12,
-      "wins": 7,
-      "draws": 4,
-      "points": 25
-    },
-    {
-      "position": 4,
-      "team": "FC Twente '65",
-      "played": 12,
-      "wins": 7,
-      "draws": 3,
-      "points": 24
-    },
-    {
-      "position": 5,
+      "position": 6,
       "team": "SC Heerenveen",
       "played": 13,
       "wins": 7,
@@ -183,20 +191,12 @@
       "points": 24
     },
     {
-      "position": 6,
-      "team": "AZ",
-      "played": 12,
-      "wins": 7,
-      "draws": 2,
-      "points": 23
-    },
-    {
       "position": 7,
       "team": "Fortuna Sittard",
-      "played": 12,
-      "wins": 5,
+      "played": 13,
+      "wins": 6,
       "draws": 5,
-      "points": 20
+      "points": 23
     },
     {
       "position": 8,
@@ -209,7 +209,7 @@
     {
       "position": 9,
       "team": "Go Ahead Eagles",
-      "played": 12,
+      "played": 13,
       "wins": 4,
       "draws": 5,
       "points": 17
@@ -249,7 +249,7 @@
     {
       "position": 14,
       "team": "Sparta Rotterdam",
-      "played": 12,
+      "played": 13,
       "wins": 3,
       "draws": 3,
       "points": 12
@@ -273,7 +273,7 @@
     {
       "position": 17,
       "team": "ADO Den Haag",
-      "played": 12,
+      "played": 13,
       "wins": 2,
       "draws": 3,
       "points": 9
@@ -281,7 +281,7 @@
     {
       "position": 18,
       "team": "Willem II Tilburg",
-      "played": 12,
+      "played": 13,
       "wins": 0,
       "draws": 3,
       "points": 3
@@ -289,65 +289,65 @@
   ],
   "fr12": [
     {
-      "title": "21 november 2026 Feyenoord krijgt nieuwe dreun en verliest van stadgenoot Excelsior 20:40 917",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-krijgt-nieuwe-dreun-en-verliest-van-stadgenoot-excelsior"
-    },
-    {
-      "title": "Read: \"De trainer heeft wel duidelijk gemaakt dat het echt heel slecht is\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/read-de-trainer-heeft-wel-duidelijk-gemaakt-dat-het-echt-heel-slecht-is"
-    },
-    {
-      "title": "Den Uil lovend na overwinning: \"Sliti was vandaag fenomenaal\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/den-uil-lovend-na-overwinning-sliti-was-vandaag-fenomenaal"
-    },
-    {
-      "title": "Sliti: \"Na die tegengoal dacht ik dat het een moeilijke avond ging worden\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/sliti-na-die-snelle-tegengoal-dacht-ik-dat-het-een-moeilijke-avond-ging-worden"
-    },
-    {
-      "title": "Van Bronckhorst: \"Dat Excelsior hier meer kansen creëert, zegt eigenlijk alles\"",
+      "title": "21 november 2026 Van Bronckhorst: \"Dat Excelsior hier meer kansen creëert, zegt eigenlijk alles\" 21:36 519",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/van-bronckhorst-dat-excelsior-hier-meer-kansen-creeert-zegt-eigenlijk-alles"
     },
     {
-      "title": "Read vreest niet voor lastigere duels: \"Wij moeten de knop gaan omdraaien\"",
+      "title": "21 november 2026 Read: \"De trainer heeft wel duidelijk gemaakt dat het echt heel slecht is\" 22:28 1101",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/read-vreest-niet-voor-lastigere-duels-wij-moeten-de-knop-gaan-omdraaien"
+      "url": "https://www.fr12.nl/nieuws/read-de-trainer-heeft-wel-duidelijk-gemaakt-dat-het-echt-heel-slecht-is"
     },
     {
-      "title": "Feyenoord-huurling Plug: \"Helaas scoorde ik vandaag in het verkeerde doel\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-huurling-plug-helaas-scoorde-ik-vandaag-in-het-verkeerde-doel"
-    },
-    {
-      "title": "Steijn: \"In het voetbal kun je heel snel alles omdraaien en dat begint dinsdag\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/steijn-in-het-voetbal-kun-je-heel-snel-alles-omdraaien-en-dat-begint-dinsdag"
-    },
-    {
-      "title": "Borges: \"Ik kan nog beter, maar volgens mij speelde ik wel goed\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/borges-ik-kan-nog-beter-maar-volgens-mij-speelde-ik-wel-goed"
-    },
-    {
-      "title": "Valente: \"Dat zeggen we al een tijdje, dus begint inmiddels ook te irriteren\"",
+      "title": "21 november 2026 Valente: \"Dat zeggen we al een tijdje, dus begint inmiddels ook te irriteren\" 20:50 586",
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/valente-dat-zeggen-we-al-een-tijdje-dus-begint-inmiddels-ook-te-irriteren"
+    },
+    {
+      "title": "Stand Eredivisie: Feyenoord zakt terug naar de vijfde plaats",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/stand-eredivisie-feyenoord-zakt-terug-naar-de-vijfde-plaats"
+    },
+    {
+      "title": "\"Als bij Feyenoord bepalende spelers wegvallen, dan hebben ze echt een probleem\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/als-bij-feyenoord-bepalende-spelers-wegvallen-dan-hebben-ze-echt-een-probleem"
+    },
+    {
+      "title": "Feyenoord mist leiderschap achterin: opvallend verschil zonder St. Juste",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/feyenoord-mist-leiderschap-achterin-opvallend-verschil-zonder-st-juste"
+    },
+    {
+      "title": "\"Je merkte dat het niet uitgevoerd werd zoals het vooraf bedacht was\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/je-merkte-dat-het-niet-uitgevoerd-werd-zoals-het-bedacht-was"
+    },
+    {
+      "title": "Valente zoekt naar verklaring: \"Vorig jaar was het ook rond dezelfde fase\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/valente-zoekt-naar-verklaring-vorig-jaar-was-het-ook-rond-dezelfde-fase"
+    },
+    {
+      "title": "Gebrek aan creativiteit: \"Als je Hadj Moussa weghaalt, blijft er niet veel over\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/gebrek-aan-creativiteit-als-je-hadj-moussa-weghaalt-blijft-er-niet-veel-over"
+    },
+    {
+      "title": "Van Bronckhorst: \"Beide jongens moeten meer constantheid in hun spel brengen\"",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-beide-jongens-moeten-meer-constantheid-in-hun-spel-brengen"
     }
   ],
-  "updated": "2026-11-22T01:39:58.708016+00:00"
+  "updated": "2026-11-22T17:01:15.037852+00:00"
 }
