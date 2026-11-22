@@ -153,7 +153,7 @@
     {
       "position": 2,
       "team": "Feyenoord Rotterdam",
-      "played": 12,
+      "played": 13,
       "wins": 7,
       "draws": 4,
       "points": 25
@@ -176,19 +176,19 @@
     },
     {
       "position": 5,
+      "team": "SC Heerenveen",
+      "played": 13,
+      "wins": 7,
+      "draws": 3,
+      "points": 24
+    },
+    {
+      "position": 6,
       "team": "AZ",
       "played": 12,
       "wins": 7,
       "draws": 2,
       "points": 23
-    },
-    {
-      "position": 6,
-      "team": "SC Heerenveen",
-      "played": 12,
-      "wins": 6,
-      "draws": 3,
-      "points": 21
     },
     {
       "position": 7,
@@ -200,6 +200,14 @@
     },
     {
       "position": 8,
+      "team": "SC Cambuur-Leeuwarden",
+      "played": 13,
+      "wins": 5,
+      "draws": 3,
+      "points": 18
+    },
+    {
+      "position": 9,
       "team": "Go Ahead Eagles",
       "played": 12,
       "wins": 4,
@@ -207,23 +215,23 @@
       "points": 17
     },
     {
-      "position": 9,
-      "team": "FC Groningen",
-      "played": 12,
-      "wins": 4,
-      "draws": 3,
-      "points": 15
-    },
-    {
       "position": 10,
-      "team": "SC Cambuur-Leeuwarden",
-      "played": 12,
+      "team": "FC Groningen",
+      "played": 13,
       "wins": 4,
       "draws": 3,
       "points": 15
     },
     {
       "position": 11,
+      "team": "PEC Zwolle",
+      "played": 13,
+      "wins": 4,
+      "draws": 3,
+      "points": 15
+    },
+    {
+      "position": 12,
       "team": "NEC",
       "played": 13,
       "wins": 3,
@@ -231,7 +239,15 @@
       "points": 14
     },
     {
-      "position": 12,
+      "position": 13,
+      "team": "SBV Excelsior",
+      "played": 13,
+      "wins": 4,
+      "draws": 2,
+      "points": 14
+    },
+    {
+      "position": 14,
       "team": "Sparta Rotterdam",
       "played": 12,
       "wins": 3,
@@ -239,33 +255,17 @@
       "points": 12
     },
     {
-      "position": 13,
-      "team": "PEC Zwolle",
-      "played": 12,
-      "wins": 3,
-      "draws": 3,
-      "points": 12
-    },
-    {
-      "position": 14,
-      "team": "FC Utrecht",
-      "played": 12,
-      "wins": 3,
-      "draws": 3,
-      "points": 12
-    },
-    {
       "position": 15,
-      "team": "SBV Excelsior",
-      "played": 12,
+      "team": "FC Utrecht",
+      "played": 13,
       "wins": 3,
-      "draws": 2,
-      "points": 11
+      "draws": 3,
+      "points": 12
     },
     {
       "position": 16,
       "team": "Telstar 1963",
-      "played": 12,
+      "played": 13,
       "wins": 2,
       "draws": 4,
       "points": 10
@@ -289,65 +289,65 @@
   ],
   "fr12": [
     {
-      "title": "21 november 2026 Valente steunt Ernst: \"Dit is voor hem ook niet leuk, toch?\" 09:10 244",
+      "title": "21 november 2026 Feyenoord krijgt nieuwe dreun en verliest van stadgenoot Excelsior 20:40 917",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/valente-steunt-ernst-dit-is-voor-hem-ook-niet-leuk-toch"
+      "url": "https://www.fr12.nl/nieuws/feyenoord-krijgt-nieuwe-dreun-en-verliest-van-stadgenoot-excelsior"
     },
     {
-      "title": "\"Als ik sommige beelden terugzie, denk ik echt: hoe kan ik daar nu lopen?\"",
+      "title": "Read: \"De trainer heeft wel duidelijk gemaakt dat het echt heel slecht is\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/als-ik-sommige-beelden-terugzie-denk-ik-echt-hoe-kan-ik-daar-nu-lopen"
+      "url": "https://www.fr12.nl/nieuws/read-de-trainer-heeft-wel-duidelijk-gemaakt-dat-het-echt-heel-slecht-is"
     },
     {
-      "title": "Feyenoord-tegenstander Porto ontsnapt tegen derdeklasser na bizarre eigen goal",
+      "title": "Den Uil lovend na overwinning: \"Sliti was vandaag fenomenaal\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-tegenstander-porto-ontsnapt-tegen-derdeklasser-na-bizarre-eigen-goal"
+      "url": "https://www.fr12.nl/nieuws/den-uil-lovend-na-overwinning-sliti-was-vandaag-fenomenaal"
     },
     {
-      "title": "Feyenoord treft tegenstander met problemen: \"We moeten terug naar de basis\"",
+      "title": "Sliti: \"Na die tegengoal dacht ik dat het een moeilijke avond ging worden\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-treft-tegenstander-met-problemen-we-moeten-terug-naar-de-basis"
+      "url": "https://www.fr12.nl/nieuws/sliti-na-die-snelle-tegengoal-dacht-ik-dat-het-een-moeilijke-avond-ging-worden"
     },
     {
-      "title": "Valente steunt Ernst: \"Dit is voor hem ook niet leuk, toch?\"",
+      "title": "Van Bronckhorst: \"Dat Excelsior hier meer kansen creëert, zegt eigenlijk alles\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/valente-steunt-ernst-dit-is-voor-hem-ook-niet-leuk-toch"
+      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-dat-excelsior-hier-meer-kansen-creeert-zegt-eigenlijk-alles"
     },
     {
-      "title": "\"Ook de manier waarop supporters in Nederland worden behandeld, moet veranderen\"",
+      "title": "Read vreest niet voor lastigere duels: \"Wij moeten de knop gaan omdraaien\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/ook-de-manier-waarop-supporters-in-nederland-worden-behandeld-moet-veranderen"
+      "url": "https://www.fr12.nl/nieuws/read-vreest-niet-voor-lastigere-duels-wij-moeten-de-knop-gaan-omdraaien"
     },
     {
-      "title": "MATCHDAY! Feyenoord hervat competitie met stadsderby tegen Excelsior",
+      "title": "Feyenoord-huurling Plug: \"Helaas scoorde ik vandaag in het verkeerde doel\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/matchday-feyenoord-hervat-competitie-met-stadsderby-tegen-excelsior"
+      "url": "https://www.fr12.nl/nieuws/feyenoord-huurling-plug-helaas-scoorde-ik-vandaag-in-het-verkeerde-doel"
     },
     {
-      "title": "Biseswar: \"Ik vind dat hij meer bij het spel betrokken moet worden\"",
+      "title": "Steijn: \"In het voetbal kun je heel snel alles omdraaien en dat begint dinsdag\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/biseswar-ik-vind-dat-hij-meer-bij-het-spel-betrokken-moet-worden"
+      "url": "https://www.fr12.nl/nieuws/steijn-in-het-voetbal-kun-je-heel-snel-alles-omdraaien-en-dat-begint-dinsdag"
     },
     {
-      "title": "Vermoedelijke opstelling: Van Bronckhorst neemt geen risico met Hadj Moussa",
+      "title": "Borges: \"Ik kan nog beter, maar volgens mij speelde ik wel goed\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/vermoedelijke-opstelling-van-bronckhorst-neemt-geen-risico-met-hadj-moussa"
+      "url": "https://www.fr12.nl/nieuws/borges-ik-kan-nog-beter-maar-volgens-mij-speelde-ik-wel-goed"
     },
     {
-      "title": "Van Bronckhorst: \"Soms sta ik ook te kijken van keuzes die worden gemaakt\"",
+      "title": "Valente: \"Dat zeggen we al een tijdje, dus begint inmiddels ook te irriteren\"",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-soms-sta-ik-ook-te-kijken-van-keuzes-die-worden-gemaakt"
+      "url": "https://www.fr12.nl/nieuws/valente-dat-zeggen-we-al-een-tijdje-dus-begint-inmiddels-ook-te-irriteren"
     }
   ],
-  "updated": "2026-11-21T16:11:28.682011+00:00"
+  "updated": "2026-11-22T01:39:58.708016+00:00"
 }
