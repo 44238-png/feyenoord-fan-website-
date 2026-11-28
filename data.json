@@ -217,10 +217,10 @@
     {
       "position": 10,
       "team": "FC Groningen",
-      "played": 13,
+      "played": 14,
       "wins": 4,
-      "draws": 3,
-      "points": 15
+      "draws": 4,
+      "points": 16
     },
     {
       "position": 11,
@@ -281,24 +281,36 @@
     {
       "position": 18,
       "team": "Willem II Tilburg",
-      "played": 13,
+      "played": 14,
       "wins": 0,
-      "draws": 3,
-      "points": 3
+      "draws": 4,
+      "points": 4
     }
   ],
   "fr12": [
     {
-      "title": "27 november 2026 Trauner neemt zondag afscheid van Feyenoord: ''De club zit in mijn hart'' 06:10 320",
+      "title": "27 november 2026 \"Ik denk dat deze basisplaats hem weer helpt om sterker te worden\" 14:42 53",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/trauner-neemt-zondag-afscheid-van-feyenoord-de-club-zit-in-mijn-hart"
+      "url": "https://www.fr12.nl/nieuws/ik-denk-dat-deze-basisplaats-hem-weer-helpt-om-sterker-te-worden"
     },
     {
-      "title": "26 november 2026 Feyenoord past traditionele laatste training voor Klassieker aan 09:16 239",
+      "title": "27 november 2026 Feyenoord maakt details bekend over voorprogramma en afscheid oud-spelers 09:34 218",
       "summary": "",
       "date": "",
-      "url": "https://www.fr12.nl/nieuws/feyenoord-past-traditionele-laatste-training-voor-klassieker-aan"
+      "url": "https://www.fr12.nl/nieuws/feyenoord-organiseert-uitgebreid-voorprogramma-en-neemt-afscheid-van-ueda-en-trauner"
+    },
+    {
+      "title": "27 november 2026 Slot: ''Dat hij een sensatie bij Feyenoord is geworden, heeft me niet verrast'' 07:52 196",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/slot-dat-hij-een-sensatie-bij-feyenoord-is-geworden-heeft-me-niet-verrast"
+    },
+    {
+      "title": "Schildkamp onthult: ''Zechiël is bij Oranje aangesproken op zijn gedrag''",
+      "summary": "",
+      "date": "",
+      "url": "https://www.fr12.nl/nieuws/schildkamp-onthult-zechiel-is-bij-oranje-aangesproken-op-zijn-gedrag"
     },
     {
       "title": "Vermoedelijke opstelling Feyenoord: Ferri terug in De Klassieker",
@@ -335,19 +347,7 @@
       "summary": "",
       "date": "",
       "url": "https://www.fr12.nl/nieuws/ik-denk-dat-deze-basisplaats-hem-weer-helpt-om-sterker-te-worden"
-    },
-    {
-      "title": "Van Bronckhorst geeft update over Watanabe richting De Klassieker",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-geeft-update-over-watanabe-richting-de-klassieker"
-    },
-    {
-      "title": "Van Bronckhorst: \"Het is om veel redenen belangrijk om deze wedstrijd te winnen\"",
-      "summary": "",
-      "date": "",
-      "url": "https://www.fr12.nl/nieuws/van-bronckhorst-het-is-om-veel-redenen-belangrijk-om-deze-wedstrijd-te-winnen"
     }
   ],
-  "updated": "2026-11-27T18:29:07.938534+00:00"
+  "updated": "2026-11-28T01:37:56.405931+00:00"
 }
